@@ -1,0 +1,28 @@
+{
+  "label": "SYNTHETIC P3 v2 code checkpoint, not final portfolio acceptance",
+  "date": "2026-10-25",
+  "tests": {
+    "passed": 113,
+    "command": "python -m pytest tests -q",
+    "seconds": 11.53
+  },
+  "review": "Two independent review defects fixed; reviewer retested15focused tests successfully",
+  "native_transition_audit": {
+    "passed": true,
+    "runs": 2255
+  },
+  "replica_new_features": {
+    "passed": true,
+    "runs": 120,
+    "tolerance_h": 1e-09
+  },
+  "animation": "Stopped; revised scene awaiting discussion and native visual acceptance",
+  "pending": [
+    "Remaining aggregate numerical analysis",
+    "E4contrast120native runs",
+    "Final canonical native regression",
+    "Cutoff sensitivity",
+    "Final report/PDF",
+    "Accepted animation and final archive/fresh-extract"
+  ]
+}

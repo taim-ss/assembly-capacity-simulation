@@ -1,0 +1,15 @@
+{
+  "label": "SYNTHETIC actual AnyLogic native results",
+  "family": "fresh-combined",
+  "runs": 1,
+  "warmup_jobs": 0,
+  "full_job_crn_checked": true,
+  "inputs": [
+    {
+      "file": "native-seed-52-scenario-0-finite.log",
+      "sha256": "9db6dd6b83c056df46c8d65bfbffa135166df76d343dd8ceba75c509473e2e71",
+      "seed": 52,
+      "scenario": 0
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+scenario,scenario_name,added_cost_rate_per_h,windowed,mean_windowed_cost,mean_windowed_saved_order_lead_hours,windowed_lead_savings_ratio_status,windowed_lead_savings_ratio,windowed_lead_savings_ratio_ci95_low,windowed_lead_savings_ratio_ci95_high,descriptive_lead_hours_only_ratio,descriptive_lead_hours_only_ci95_low,descriptive_lead_hours_only_ci95_high,positive_gain_required_and_met
+1,Kitting +1,20.0,True,458263.298278817,3598.1644708728754,undefined_preregistered_throughput_gain_gate,,,,127.36029772637028,113.24546843079057,145.48008284598015,False
+2,Assembly +1,35.0,True,801924.7595544939,14056.282772267365,undefined_preregistered_throughput_gain_gate,,,,57.050983716453686,50.19185752052553,65.99006181340097,False
+3,Test +1,45.0,True,1031089.5124134738,5110.803631611784,undefined_preregistered_throughput_gain_gate,,,,201.74704150945848,180.55264179588553,228.58701420944186,False
+4,Quality +1,30.0,True,687400.6011476369,1967.0915005409272,undefined_preregistered_throughput_gain_gate,,,,349.45024212580336,316.7450875764734,390.07398590449725,False
+5,Handover +1,20.0,True,458265.1251485247,5994.417750978244,undefined_preregistered_throughput_gain_gate,,,,76.44864675534822,74.29774712417682,78.70119285230359,False

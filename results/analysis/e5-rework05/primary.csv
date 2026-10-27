@@ -1,0 +1,3 @@
+metric,positive_means,p_two_sided,n,mean,ci95_low,ci95_high,half_width,relative_half_width,precision_under_5pct,precision_status,absolute_tolerance,absolute_precision_met,ci_excludes_zero,holm_p,holm_reject_005
+mean_lead_h,Assembly +1 shorter than Test +1,0.0022027945564494604,30,2.2185704342951196,0.8677659737053696,3.5693748948848696,1.35080446058975,0.6088625538809749,False,more_replications_needed,0.5,False,True,0.004405589112898921,True
+p90_lead_h,Assembly +1 shorter than Test +1,0.015660200272281304,30,2.8983044532759794,0.5896550227462085,5.206953883805751,2.308649430529771,0.7965517314512227,False,more_replications_needed,0.5,False,True,0.015660200272281304,True

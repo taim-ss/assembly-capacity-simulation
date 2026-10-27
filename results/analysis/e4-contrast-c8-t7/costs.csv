@@ -1,0 +1,3 @@
+scenario,scenario_name,added_cost_rate_per_h,windowed,mean_windowed_cost,mean_windowed_saved_order_lead_hours,windowed_lead_savings_ratio_status,windowed_lead_savings_ratio,windowed_lead_savings_ratio_ci95_low,windowed_lead_savings_ratio_ci95_high,descriptive_lead_hours_only_ratio,descriptive_lead_hours_only_ci95_low,descriptive_lead_hours_only_ci95_high,positive_gain_required_and_met
+2,Assembly +1,35.0,True,268446.33575388335,17.493009900286083,undefined_preregistered_throughput_gain_gate,,,,,,,False
+3,Test +1,45.0,True,345145.2888264215,124.97648915884804,undefined_preregistered_throughput_gain_gate,,,,2761.6817462981676,2174.693001671346,3777.607415418367,False

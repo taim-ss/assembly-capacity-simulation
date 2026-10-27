@@ -1,0 +1,5 @@
+cap_assembly,cap_test,service_scale,target_mean_h,method
+4,4,0.8081233295221005,55.46025641025641,Linear interpolation of five-seed post-W500 native grid means
+5,4,0.8465602019352322,55.46025641025641,Linear interpolation of five-seed post-W500 native grid means
+6,5,0.9071833431072736,55.46025641025641,Linear interpolation of five-seed post-W500 native grid means
+8,7,0.9320633690555346,55.46025641025641,Linear interpolation of five-seed post-W500 native grid means

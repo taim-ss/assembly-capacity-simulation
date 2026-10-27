@@ -1,0 +1,290 @@
+{
+  "label": "SYNTHETIC actual AnyLogic native results",
+  "family": "e6-confirmation",
+  "runs": 30,
+  "warmup_jobs": 0,
+  "full_job_crn_checked": true,
+  "inputs": [
+    {
+      "file": "native-seed-11-scenario-0-mmc.log",
+      "sha256": "1fa23f73b5c4996c4b925e703f2f0cc5c8d757a94d78c721c04893425d503831",
+      "seed": 11,
+      "scenario": 0
+    },
+    {
+      "file": "native-seed-12-scenario-0-mmc.log",
+      "sha256": "67c5c64677d9528f09da0374f614f62580800f8de22b4e43585c76c81c1c1c45",
+      "seed": 12,
+      "scenario": 0
+    },
+    {
+      "file": "native-seed-13-scenario-0-mmc.log",
+      "sha256": "6c323caa7f3dd7a1f61aba0181305f8a9e8a64777dc91ccb04d0ddee61d966df",
+      "seed": 13,
+      "scenario": 0
+    },
+    {
+      "file": "native-seed-14-scenario-0-mmc.log",
+      "sha256": "bb002cc203491d45fcb0bea9143346a592383bacb23318d9c770efe7a051c57a",
+      "seed": 14,
+      "scenario": 0
+    },
+    {
+      "file": "native-seed-15-scenario-0-mmc.log",
+      "sha256": "e04c738f1bcbc0ccf137b1a41d7b39a00bc8b8f230afcad7be75c42e7d7fb017",
+      "seed": 15,
+      "scenario": 0
+    },
+    {
+      "file": "native-seed-16-scenario-0-mmc.log",
+      "sha256": "d638e7e9e7b900a7b30343e8124a8671ad34fb8d3927eec29c313b69235e212e",
+      "seed": 16,
+      "scenario": 0
+    },
+    {
+      "file": "native-seed-17-scenario-0-mmc.log",
+      "sha256": "1a67e7bf90966cd9cddf0ff538656e8647c5d35408a7b0258a454eec9b76147b",
+      "seed": 17,
+      "scenario": 0
+    },
+    {
+      "file": "native-seed-18-scenario-0-mmc.log",
+      "sha256": "969c6821662262f89fa776f83090f7f2e013747390dff2ed4970aef8da6035ad",
+      "seed": 18,
+      "scenario": 0
+    },
+    {
+      "file": "native-seed-19-scenario-0-mmc.log",
+      "sha256": "be0557585c2623d8b44df079221c1a0d8e9a9ca9594505c27df37d653b21c52f",
+      "seed": 19,
+      "scenario": 0
+    },
+    {
+      "file": "native-seed-20-scenario-0-mmc.log",
+      "sha256": "93f6aeae44b1d7eaee529155c7e390c64770078659c01f11b4293c5c39edd622",
+      "seed": 20,
+      "scenario": 0
+    },
+    {
+      "file": "native-seed-21-scenario-0-mmc.log",
+      "sha256": "98713af8d1f583cd0c1c3d5dc061547c581d3ce7e8229964683b6eba6246a290",
+      "seed": 21,
+      "scenario": 0
+    },
+    {
+      "file": "native-seed-22-scenario-0-mmc.log",
+      "sha256": "7ad9174f5e6c81af4b9ced94550432823b7042404fd7e2b72934b83323290e21",
+      "seed": 22,
+      "scenario": 0
+    },
+    {
+      "file": "native-seed-23-scenario-0-mmc.log",
+      "sha256": "f1b548b0b48799f1aae4b32f23b0b5dc8b868199d56a5bba485e93705bf3b3f3",
+      "seed": 23,
+      "scenario": 0
+    },
+    {
+      "file": "native-seed-24-scenario-0-mmc.log",
+      "sha256": "bc1e70b05c7a80c63d02c77636d3ff5b1f669cd6ba0104b8e939275ef037ba27",
+      "seed": 24,
+      "scenario": 0
+    },
+    {
+      "file": "native-seed-25-scenario-0-mmc.log",
+      "sha256": "0549733eb8cb8293c6b5f564f45385b3cefec0a6d69481525e8e2e921adb3450",
+      "seed": 25,
+      "scenario": 0
+    },
+    {
+      "file": "native-seed-26-scenario-0-mmc.log",
+      "sha256": "d4913f916741936dac08faf599b0060f7bf6ea56d12f6e4ce11506344ba1068c",
+      "seed": 26,
+      "scenario": 0
+    },
+    {
+      "file": "native-seed-27-scenario-0-mmc.log",
+      "sha256": "cc34595da3185554f84a0a98201a303d6004ddb17b3d55318fb5a000575a25be",
+      "seed": 27,
+      "scenario": 0
+    },
+    {
+      "file": "native-seed-28-scenario-0-mmc.log",
+      "sha256": "a132d74566d783a60186c058aa24486de5af0c4914f2cf01ecfbe4dbdc1aeace",
+      "seed": 28,
+      "scenario": 0
+    },
+    {
+      "file": "native-seed-29-scenario-0-mmc.log",
+      "sha256": "e6cce6f7836155b77b9bc18505077a009500ff231107dcacb1d154082878d953",
+      "seed": 29,
+      "scenario": 0
+    },
+    {
+      "file": "native-seed-30-scenario-0-mmc.log",
+      "sha256": "46f190af1641dda70183934a0fe41c0231c06e69b138207eb8aee4cd55df8dfc",
+      "seed": 30,
+      "scenario": 0
+    },
+    {
+      "file": "native-seed-31-scenario-0-mmc.log",
+      "sha256": "62b6af173ad2a66a779275a1dfdf2eec3a51ec4359b42bb2cc6c77dff259148b",
+      "seed": 31,
+      "scenario": 0
+    },
+    {
+      "file": "native-seed-32-scenario-0-mmc.log",
+      "sha256": "434ac781ff58d0a51c8f53bd54d41f5bb6009598c95d885c0bc113f90a3327a8",
+      "seed": 32,
+      "scenario": 0
+    },
+    {
+      "file": "native-seed-33-scenario-0-mmc.log",
+      "sha256": "dc4e5055cd3bec6465046d108e618a07d4ea65aa49e19131f2511d5662fb14ef",
+      "seed": 33,
+      "scenario": 0
+    },
+    {
+      "file": "native-seed-34-scenario-0-mmc.log",
+      "sha256": "e092d41a5b9f02492a1f1fec674ef012980d9d8d72385e0451d6038518367e4e",
+      "seed": 34,
+      "scenario": 0
+    },
+    {
+      "file": "native-seed-35-scenario-0-mmc.log",
+      "sha256": "3ae5c767aaea41f48ef6cb0a70438fd1ccb652cb7f74c8c87185f815109b3f3d",
+      "seed": 35,
+      "scenario": 0
+    },
+    {
+      "file": "native-seed-36-scenario-0-mmc.log",
+      "sha256": "e2d03b79a8e9f1f1220e3b6c6b5950c198cc3d4d51e23bbf79fc0fcd33c49b49",
+      "seed": 36,
+      "scenario": 0
+    },
+    {
+      "file": "native-seed-37-scenario-0-mmc.log",
+      "sha256": "fe531c45611ab35a7e79d73ddb51ec395044e31513e09ed251e16f6d866f0b7d",
+      "seed": 37,
+      "scenario": 0
+    },
+    {
+      "file": "native-seed-38-scenario-0-mmc.log",
+      "sha256": "2c9439d995ad332b0a46af56070ad4d7acf39f8a61d55530e9f815dd93226bb7",
+      "seed": 38,
+      "scenario": 0
+    },
+    {
+      "file": "native-seed-39-scenario-0-mmc.log",
+      "sha256": "a901db974e51ca16d39a61eb21d93671c979d51c37dc03508bac15c6197c3025",
+      "seed": 39,
+      "scenario": 0
+    },
+    {
+      "file": "native-seed-40-scenario-0-mmc.log",
+      "sha256": "9fa56554dedcbc453376657134afad79d8f64ed1a3089416a21959b46369de37",
+      "seed": 40,
+      "scenario": 0
+    }
+  ],
+  "mmc": {
+    "accepted": true,
+    "servers": 3,
+    "arrival_rate": 2.1,
+    "service_rate": 1.0,
+    "nominal_rho": 0.7000000000000001,
+    "criteria": "Same acceptance pattern as M/M/1: every analytic target inside its marginal 95% t CI, relative error <=5%, relative CI half-width <=5%.",
+    "finite_run_bias": "Empty start and complete drain; no warmup. Finite-run estimates approach but are not identical to steady-state expectations.",
+    "checks": [
+      {
+        "metric": "mean_lead_h",
+        "target": 1.547049441786284,
+        "relative_error": 0.0007326243670858337,
+        "target_inside_ci95": true,
+        "accepted": true,
+        "n": 30,
+        "mean": 1.548182847904423,
+        "ci95_low": 1.5206837280068726,
+        "ci95_high": 1.5756819678019736,
+        "half_width": 0.027499119897550446,
+        "relative_half_width": 0.017762191290759025,
+        "precision_under_5pct": true,
+        "precision_status": "target_met"
+      },
+      {
+        "metric": "mean_wait_h",
+        "target": 0.547049441786284,
+        "relative_error": 0.0018684515322526759,
+        "target_inside_ci95": true,
+        "accepted": true,
+        "n": 30,
+        "mean": 0.5480715771540076,
+        "ci95_low": 0.523548631942159,
+        "ci95_high": 0.5725945223658562,
+        "half_width": 0.024522945211848644,
+        "relative_half_width": 0.04474405576583607,
+        "precision_under_5pct": true,
+        "precision_status": "target_met"
+      },
+      {
+        "metric": "mean_wip",
+        "target": 3.248803827751196,
+        "relative_error": 0.0017864376407327228,
+        "target_inside_ci95": true,
+        "accepted": true,
+        "n": 30,
+        "mean": 3.243000042305945,
+        "ci95_low": 3.1776680177430263,
+        "ci95_high": 3.3083320668688634,
+        "half_width": 0.06533202456291844,
+        "relative_half_width": 0.020145551560481603,
+        "precision_under_5pct": true,
+        "precision_status": "target_met"
+      },
+      {
+        "metric": "mean_queue",
+        "target": 1.1488038277511965,
+        "relative_error": 0.00025609890783351486,
+        "target_inside_ci95": true,
+        "accepted": true,
+        "n": 30,
+        "mean": 1.1485096203455945,
+        "ci95_low": 1.0945367026382709,
+        "ci95_high": 1.202482538052918,
+        "half_width": 0.05397291770732363,
+        "relative_half_width": 0.046993875150199274,
+        "precision_under_5pct": true,
+        "precision_status": "target_met"
+      },
+      {
+        "metric": "throughput_per_h",
+        "target": 2.1,
+        "relative_error": 0.002771053564499539,
+        "target_inside_ci95": true,
+        "accepted": true,
+        "n": 30,
+        "mean": 2.094180787514551,
+        "ci95_low": 2.0857663111784097,
+        "ci95_high": 2.1025952638506924,
+        "half_width": 0.008414476336141145,
+        "relative_half_width": 0.0040180276632791325,
+        "precision_under_5pct": true,
+        "precision_status": "target_met"
+      },
+      {
+        "metric": "utilization",
+        "target": 0.7000000000000001,
+        "relative_error": 0.0026236085903097446,
+        "target_inside_ci95": true,
+        "accepted": true,
+        "n": 30,
+        "mean": 0.6981634739867832,
+        "ci95_low": 0.6935254872834158,
+        "ci95_high": 0.7028014606901507,
+        "half_width": 0.004637986703367481,
+        "relative_half_width": 0.006643124248369489,
+        "precision_under_5pct": true,
+        "precision_status": "target_met"
+      }
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+[
+  {
+    "family": "e0-regression",
+    "runs": 60,
+    "warmup_jobs": 0
+  },
+  {
+    "family": "e0-replay",
+    "runs": 1,
+    "warmup_jobs": 0
+  },
+  {
+    "family": "e1-pilot",
+    "runs": 10,
+    "warmup_jobs": 0
+  },
+  {
+    "family": "e2-pilot",
+    "runs": 60,
+    "warmup_jobs": 0
+  },
+  {
+    "family": "e6-pilot",
+    "runs": 10,
+    "warmup_jobs": 0
+  }
+]

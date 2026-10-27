@@ -1,0 +1,24 @@
+{
+  "label": "v1 confirmation baseline (600-order finite campaign)",
+  "n_replications": 190,
+  "n_jobs": 600,
+  "window": 25,
+  "warmup_estimate_lead_jobs": 164,
+  "warmup_estimate_wip_jobs": 302,
+  "warmup_estimate_jobs": 302,
+  "lead_startup_bias": {
+    "warmup_jobs": 302,
+    "startup_mean": 86.75057988189651,
+    "steady_mean": 87.23499407310844,
+    "absolute_bias_h": -0.4844141912119255,
+    "relative_bias_pct": -0.5552980158466634
+  },
+  "wip_startup_bias": {
+    "warmup_jobs": 302,
+    "startup_mean": 3.8580864412687346,
+    "steady_mean": 3.901978099611444,
+    "absolute_bias_h": -0.04389165834270958,
+    "relative_bias_pct": -1.1248566040665446
+  },
+  "method": "Automated proxy for the visual Welch method: smallest job index after which the moving-average trajectory stays within 5% of the mean of the last 20% of jobs. This is a heuristic stand-in for eyeballing the plot, not a validated Welch procedure; `welch_plot.png` must be inspected by a human before the warm-up estimate is frozen in a run manifest."
+}

@@ -1,0 +1,7 @@
+{
+  "label": "SYNTHETIC presentation-only process-contract comparison; not native execution",
+  "before_sha256": "da0e74554a35a3fdda2c57210509f0e976cdb3cf517c051a1ae422aa49a2e00d",
+  "after_sha256": "28af0d6252136ccce9934b040cd225a83d6c79f66c67de4edcb9a6da7ec4898e",
+  "process_contract_unchanged": true,
+  "scope": "All non-presentation variables, PML parameter expressions/callbacks, connections, units and non-Demo3D experiments"
+}

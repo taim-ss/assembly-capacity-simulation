@@ -1,0 +1,11 @@
+{
+  "label": "SYNTHETIC native E4 capacity/service manifold",
+  "native_runs": 120,
+  "points": 4,
+  "seeds_per_scenario": 10,
+  "pointwise_not_simultaneous": true,
+  "ranking_point_estimates_change_sign": true,
+  "preregistered_sentence": "The Assembly-over-Test preference is NOT identifiable from the observed data alone: at least one (capacity, waiting-share) pair that reproduces the observed mean lead time reverses which station should get the added unit. The recommendation in this report is conditional on the specific (c, s) chosen for E2, and that choice is an assumption, not an inference from data.",
+  "maximum_absolute_baseline_residual_h": 1.2297158502865742,
+  "residual_caveat": "Coarse five-seed grid interpolation; actual ten-seed confirmation residuals are retained, not forced to zero."
+}

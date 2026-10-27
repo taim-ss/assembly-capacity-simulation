@@ -1,0 +1,9 @@
+scenario,scenario_name,metric,positive_means,n,mean,ci95_low,ci95_high,half_width,relative_half_width,precision_under_5pct,precision_status
+2,Assembly +1,mean_lead_h,improvement,1,2.2901394357080065,,,,,False,insufficient_replications
+2,Assembly +1,p90_lead_h,improvement,1,1.8491322995276107,,,,,False,insufficient_replications
+2,Assembly +1,mean_wip,improvement,1,0.45260655254747917,,,,,False,insufficient_replications
+2,Assembly +1,throughput_per_h,improvement,1,0.00013985982373360129,,,,,False,insufficient_replications
+3,Test +1,mean_lead_h,improvement,1,1.5836856458729471,,,,,False,insufficient_replications
+3,Test +1,p90_lead_h,improvement,1,1.739388530555047,,,,,False,insufficient_replications
+3,Test +1,mean_wip,improvement,1,0.2944466082856909,,,,,False,insufficient_replications
+3,Test +1,throughput_per_h,improvement,1,0.00038638888584188735,,,,,False,insufficient_replications

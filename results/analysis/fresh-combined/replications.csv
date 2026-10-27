@@ -1,0 +1,2 @@
+seed,scenario,scenario_name,target,final_time_h,mean_lead_h,p90_lead_h,mean_wip,throughput_per_h
+52,0,Baseline,600,3326.54178165597,157.71174947142887,217.5177333945605,28.446072796882614,0.18036749254395862

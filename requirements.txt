@@ -1,0 +1,14 @@
+# Analysis versions verified 2026-10-23; PDF versions 2026-10-24; SYNTHETIC.
+numpy==2.4.6
+scipy==1.18.0
+pandas==3.0.3
+matplotlib==3.11.0
+openpyxl==3.1.5
+PyMuPDF==1.28.2
+Markdown==3.11
+pytest==9.1.1
+reportlab==4.4.9
+pypdf==6.10.0
+pypdfium2==5.14.0
+Pillow==12.2.0
+imageio-ffmpeg==0.6.0

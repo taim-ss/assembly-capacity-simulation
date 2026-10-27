@@ -1,0 +1,212 @@
+[
+  {
+    "family": "e2-confirmation",
+    "runs": 1200,
+    "warmup_jobs": 500
+  },
+  {
+    "family": "e6-confirmation",
+    "runs": 30,
+    "warmup_jobs": 0
+  },
+  {
+    "family": "e4-grid-c4-t4-s0.5",
+    "runs": 5,
+    "warmup_jobs": 500
+  },
+  {
+    "family": "e4-grid-c4-t4-s0.6",
+    "runs": 5,
+    "warmup_jobs": 500
+  },
+  {
+    "family": "e4-grid-c4-t4-s0.7",
+    "runs": 5,
+    "warmup_jobs": 500
+  },
+  {
+    "family": "e4-grid-c4-t4-s0.8",
+    "runs": 5,
+    "warmup_jobs": 500
+  },
+  {
+    "family": "e4-grid-c4-t4-s0.9",
+    "runs": 5,
+    "warmup_jobs": 500
+  },
+  {
+    "family": "e4-grid-c4-t4-s1.0",
+    "runs": 5,
+    "warmup_jobs": 500
+  },
+  {
+    "family": "e4-grid-c4-t4-s1.1",
+    "runs": 5,
+    "warmup_jobs": 500
+  },
+  {
+    "family": "e4-grid-c4-t4-s1.2",
+    "runs": 5,
+    "warmup_jobs": 500
+  },
+  {
+    "family": "e4-grid-c5-t4-s0.5",
+    "runs": 5,
+    "warmup_jobs": 500
+  },
+  {
+    "family": "e4-grid-c5-t4-s0.6",
+    "runs": 5,
+    "warmup_jobs": 500
+  },
+  {
+    "family": "e4-grid-c5-t4-s0.7",
+    "runs": 5,
+    "warmup_jobs": 500
+  },
+  {
+    "family": "e4-grid-c5-t4-s0.8",
+    "runs": 5,
+    "warmup_jobs": 500
+  },
+  {
+    "family": "e4-grid-c5-t4-s0.9",
+    "runs": 5,
+    "warmup_jobs": 500
+  },
+  {
+    "family": "e4-grid-c5-t4-s1.0",
+    "runs": 5,
+    "warmup_jobs": 500
+  },
+  {
+    "family": "e4-grid-c5-t4-s1.1",
+    "runs": 5,
+    "warmup_jobs": 500
+  },
+  {
+    "family": "e4-grid-c5-t4-s1.2",
+    "runs": 5,
+    "warmup_jobs": 500
+  },
+  {
+    "family": "e4-grid-c6-t5-s0.5",
+    "runs": 5,
+    "warmup_jobs": 500
+  },
+  {
+    "family": "e4-grid-c6-t5-s0.6",
+    "runs": 5,
+    "warmup_jobs": 500
+  },
+  {
+    "family": "e4-grid-c6-t5-s0.7",
+    "runs": 5,
+    "warmup_jobs": 500
+  },
+  {
+    "family": "e4-grid-c6-t5-s0.8",
+    "runs": 5,
+    "warmup_jobs": 500
+  },
+  {
+    "family": "e4-grid-c6-t5-s0.9",
+    "runs": 5,
+    "warmup_jobs": 500
+  },
+  {
+    "family": "e4-grid-c6-t5-s1.0",
+    "runs": 5,
+    "warmup_jobs": 500
+  },
+  {
+    "family": "e4-grid-c6-t5-s1.1",
+    "runs": 5,
+    "warmup_jobs": 500
+  },
+  {
+    "family": "e4-grid-c6-t5-s1.2",
+    "runs": 5,
+    "warmup_jobs": 500
+  },
+  {
+    "family": "e4-grid-c8-t7-s0.5",
+    "runs": 5,
+    "warmup_jobs": 500
+  },
+  {
+    "family": "e4-grid-c8-t7-s0.6",
+    "runs": 5,
+    "warmup_jobs": 500
+  },
+  {
+    "family": "e4-grid-c8-t7-s0.7",
+    "runs": 5,
+    "warmup_jobs": 500
+  },
+  {
+    "family": "e4-grid-c8-t7-s0.8",
+    "runs": 5,
+    "warmup_jobs": 500
+  },
+  {
+    "family": "e4-grid-c8-t7-s0.9",
+    "runs": 5,
+    "warmup_jobs": 500
+  },
+  {
+    "family": "e4-grid-c8-t7-s1.0",
+    "runs": 5,
+    "warmup_jobs": 500
+  },
+  {
+    "family": "e4-grid-c8-t7-s1.1",
+    "runs": 5,
+    "warmup_jobs": 500
+  },
+  {
+    "family": "e4-grid-c8-t7-s1.2",
+    "runs": 5,
+    "warmup_jobs": 500
+  },
+  {
+    "family": "e5-capacity-low",
+    "runs": 90,
+    "warmup_jobs": 500
+  },
+  {
+    "family": "e5-capacity-high",
+    "runs": 90,
+    "warmup_jobs": 500
+  },
+  {
+    "family": "e5-service-half",
+    "runs": 90,
+    "warmup_jobs": 500
+  },
+  {
+    "family": "e5-service-threequarter",
+    "runs": 90,
+    "warmup_jobs": 500
+  },
+  {
+    "family": "e5-fitted",
+    "runs": 90,
+    "warmup_jobs": 500
+  },
+  {
+    "family": "e5-rework05",
+    "runs": 90,
+    "warmup_jobs": 500
+  },
+  {
+    "family": "e5-rework10",
+    "runs": 90,
+    "warmup_jobs": 500
+  },
+  {
+    "family": "e5-components",
+    "runs": 90,
+    "warmup_jobs": 500
+  }
+]

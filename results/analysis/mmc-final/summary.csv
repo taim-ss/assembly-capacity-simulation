@@ -1,0 +1,5 @@
+scenario,scenario_name,metric,n,mean,ci95_low,ci95_high,half_width,relative_half_width,precision_under_5pct,precision_status
+0,Baseline,mean_lead_h,1,1.6844967270383473,,,,,False,insufficient_replications
+0,Baseline,p90_lead_h,1,3.7252159729027206,,,,,False,insufficient_replications
+0,Baseline,mean_wip,1,3.5661670147424958,,,,,False,insufficient_replications
+0,Baseline,throughput_per_h,1,2.117051910817582,,,,,False,insufficient_replications

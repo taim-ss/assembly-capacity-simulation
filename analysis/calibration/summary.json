@@ -1,0 +1,184 @@
+{
+  "data_label": "SYNTHETIC - learning data; elapsed includes waiting; not company data",
+  "source": "C:\\Users\\USER\\Documents\\job-search-ops\\applications\\2026-10-21-career-packs\\evidence\\inventory-leadtime-kpi-case\\Inventory_Health_and_LeadTime_KPI_Case.xlsx",
+  "source_sha256": "b4c3af55f44f40fca0c9978f222016b9c44b7578209f118d04a843469458c00d",
+  "source_sheet": "LeadTime_Analysis",
+  "source_rows": "6:205",
+  "source_headers": [
+    "Order",
+    "Release",
+    "Kitting end",
+    "Assembly end",
+    "Test end",
+    "Quality release end",
+    "Handover end",
+    "Kitting (h)",
+    "Assembly (h)",
+    "Test (h)",
+    "Quality release (h)",
+    "Handover (h)",
+    "Data check",
+    "Kitting clean (h)",
+    "Assembly clean (h)",
+    "Test clean (h)",
+    "Quality release clean (h)",
+    "Handover clean (h)",
+    "End-to-end clean (h)"
+  ],
+  "counts": {
+    "OK": 195,
+    "Missing timestamp": 3,
+    "Negative duration": 2
+  },
+  "raw_orders": 200,
+  "clean_orders": 195,
+  "excluded_ids": [
+    {
+      "order_id": "ORD-0195",
+      "source_row": 64,
+      "quality_flag": "Negative duration"
+    },
+    {
+      "order_id": "ORD-0166",
+      "source_row": 65,
+      "quality_flag": "Missing timestamp"
+    },
+    {
+      "order_id": "ORD-0162",
+      "source_row": 70,
+      "quality_flag": "Missing timestamp"
+    },
+    {
+      "order_id": "ORD-0053",
+      "source_row": 110,
+      "quality_flag": "Negative duration"
+    },
+    {
+      "order_id": "ORD-0012",
+      "source_row": 111,
+      "quality_flag": "Missing timestamp"
+    }
+  ],
+  "observed": [
+    {
+      "data_label": "SYNTHETIC - learning data; elapsed includes waiting; not company data",
+      "step": "kitting",
+      "n": 195,
+      "mean_h": 5.906923076923077,
+      "mean_ci_low_h": 5.623846153846157,
+      "mean_ci_high_h": 6.187882478632474,
+      "p90_h": 9.016666666666667,
+      "p90_ci_low_h": 8.236666666666665,
+      "p90_ci_high_h": 9.376666666666667
+    },
+    {
+      "data_label": "SYNTHETIC - learning data; elapsed includes waiting; not company data",
+      "step": "assembly",
+      "n": 195,
+      "mean_h": 20.176153846153845,
+      "mean_ci_low_h": 19.290683760683763,
+      "mean_ci_high_h": 21.04574358974359,
+      "p90_h": 27.366666666666664,
+      "p90_ci_low_h": 25.783333333333335,
+      "p90_ci_high_h": 31.43333333333333
+    },
+    {
+      "data_label": "SYNTHETIC - learning data; elapsed includes waiting; not company data",
+      "step": "test",
+      "n": 195,
+      "mean_h": 17.673504273504275,
+      "mean_ci_low_h": 16.14500427350427,
+      "mean_ci_high_h": 19.237232905982903,
+      "p90_h": 33.86666666666667,
+      "p90_ci_low_h": 28.816666666666666,
+      "p90_ci_high_h": 37.53666666666666
+    },
+    {
+      "data_label": "SYNTHETIC - learning data; elapsed includes waiting; not company data",
+      "step": "quality_release",
+      "n": 195,
+      "mean_h": 8.736666666666666,
+      "mean_ci_low_h": 8.183585470085466,
+      "mean_ci_high_h": 9.32128418803419,
+      "p90_h": 13.513333333333332,
+      "p90_ci_low_h": 12.3,
+      "p90_ci_high_h": 14.899999999999999
+    },
+    {
+      "data_label": "SYNTHETIC - learning data; elapsed includes waiting; not company data",
+      "step": "handover",
+      "n": 195,
+      "mean_h": 2.9670085470085468,
+      "mean_ci_low_h": 2.8206816239316246,
+      "mean_ci_high_h": 3.126333333333334,
+      "p90_h": 4.426666666666666,
+      "p90_ci_low_h": 4.013166666666666,
+      "p90_ci_high_h": 4.7299999999999995
+    },
+    {
+      "data_label": "SYNTHETIC - learning data; elapsed includes waiting; not company data",
+      "step": "end_to_end",
+      "n": 195,
+      "mean_h": 55.46025641025641,
+      "mean_ci_low_h": 53.57867521367521,
+      "mean_ci_high_h": 57.40787393162384,
+      "p90_h": 73.86333333333333,
+      "p90_ci_low_h": 68.85000000000001,
+      "p90_ci_high_h": 78.70666666666665
+    }
+  ],
+  "arrivals": {
+    "n_all_releases": 200,
+    "n_gaps": 199,
+    "first_release": "2026-03-02T07:40:00",
+    "last_release": "2026-04-13T05:25:00",
+    "observed_span_h": 1005.75,
+    "mean_gap_h": 5.054020100502513,
+    "sd_gap_h": 5.1356777330136,
+    "cv_gap": 1.0161569663134042,
+    "p90_gap_h": 12.01666666666667,
+    "tied_gaps": 0,
+    "exponential_ks_D_descriptive": 0.06616245984736739,
+    "rate_inverse_mean_gap_per_h": 0.19786229182202333,
+    "generator_window_h": 1008,
+    "generator_window_rate_per_h": 0.1984126984126984,
+    "generator_mechanism": "200 fixed-count independent uniform releases over 42 days, rounded to minutes; not a Poisson process",
+    "caution": "Gap exponential compatibility is descriptive; fixed count and finite window induce dependence. Rate from clean195 releases would incorrectly treat quality exclusion as lost demand.",
+    "service_proxy_offered_loads": {
+      "kitting": 1.1687573376163978,
+      "assembly": 3.9921000401537308,
+      "test": 3.4969200600818793,
+      "quality_release": 1.7286568895517438,
+      "handover": 0.5870591109666425
+    }
+  },
+  "selection": "Minimum CDF RMSE on chronological final39 versus first156. Selection uses this holdout; not independent final validation.",
+  "bootstrap": {
+    "method": "whole-order nonparametric percentile bootstrap; 95% intervals for descriptive mean/P90",
+    "reps": 4000,
+    "seed": 20261023,
+    "limitations": "assumes orders iid; does not include structural/service decomposition uncertainty"
+  },
+  "source_limitation": "Demand is assumed normal and independent week to week; lead time normal and independent of demand; one echelon, no MOQ/lot sizes, no capacity limits, no stock-out cost model; ABC classes are assigned by design, not computed. Thresholds are illustrative. Step durations include waiting time. Results describe the synthetic data only and say nothing about any real operation.",
+  "time_unit": "hour",
+  "service_times_identifiable": false,
+  "capacities_identifiable": false,
+  "rework_identifiable": false,
+  "dependency": {
+    "spearman_max_abs_off_diagonal": 0.12630538454023066,
+    "rule": "Joint row sampling preserves observed cross-step dependence; independent fitted marginals assume it away. Small empirical correlations do not establish independence."
+  },
+  "caveats": [
+    "Only completion timestamps observed, so elapsed = waiting + processing; resource capacities, utilization, queues and starvation cannot be recovered.",
+    "Generator uses independent positive lognormal durations, but source documentation labels them elapsed including waiting; do not reinterpret as observed service.",
+    "Workbook data excludes incomplete/negative whole orders; retain all200 releases for demand. Observed timing precision one minute.",
+    "Kitting component quantities, processing starts, station resources, shifts, test failures/rework and costs are absent.",
+    "Adding a capacity station can only be hypothetical under labelled assumptions; original data cannot validate the causal benefit."
+  ],
+  "versions": {
+    "numpy": "2.4.6",
+    "pandas": "3.0.3",
+    "scipy": "1.18.0"
+  },
+  "source_unchanged": true
+}

@@ -1,0 +1,64 @@
+{
+  "label": "SYNTHETIC final canonical native checks",
+  "runs": 245,
+  "families": [
+    {
+      "family": "e4-contrast-c4-t4",
+      "runs": 30,
+      "warmup_jobs": 500,
+      "prior_strict_acceptance_reused": true,
+      "acceptance_sha256": "28bce2799dae89b8109dff56ee137db979231c54daaa1a5c78782f659358b055"
+    },
+    {
+      "family": "e4-contrast-c5-t4",
+      "runs": 30,
+      "warmup_jobs": 500,
+      "prior_strict_acceptance_reused": true,
+      "acceptance_sha256": "8c61dfcc637ab09df4894d0c2ebbc03b6c2df71822fbdd838190a074e3dd9684"
+    },
+    {
+      "family": "e4-contrast-c6-t5",
+      "runs": 30,
+      "warmup_jobs": 500,
+      "prior_strict_acceptance_reused": true,
+      "acceptance_sha256": "34a460445b48bf1b0a0fbdd97210b8fd509930c84c8720ee16a95f2047e55e59"
+    },
+    {
+      "family": "e4-contrast-c8-t7",
+      "runs": 30,
+      "warmup_jobs": 500,
+      "prior_strict_acceptance_reused": true,
+      "acceptance_sha256": "2d1ff57847205696fb4a422c0053bc7c0eaf6203f8457056bc8a358fa9e0b6c6"
+    },
+    {
+      "family": "e0-final-default",
+      "runs": 60,
+      "warmup_jobs": 0,
+      "prior_strict_acceptance_reused": false
+    },
+    {
+      "family": "e2-final-equivalence",
+      "runs": 60,
+      "warmup_jobs": 500,
+      "prior_strict_acceptance_reused": false
+    },
+    {
+      "family": "features-final",
+      "runs": 3,
+      "warmup_jobs": 0,
+      "prior_strict_acceptance_reused": false
+    },
+    {
+      "family": "replay-final",
+      "runs": 1,
+      "warmup_jobs": 0,
+      "prior_strict_acceptance_reused": false
+    },
+    {
+      "family": "mmc-final",
+      "runs": 1,
+      "warmup_jobs": 0,
+      "prior_strict_acceptance_reused": false
+    }
+  ]
+}

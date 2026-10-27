@@ -1,0 +1,12 @@
+{
+  "archive": "C:\\Users\\USER\\Documents\\anylogic-pms\\portfolio\\p3-assembly-flow-v2\\deliverables-candidate\\P3_Assembly_Flow_SYNTHETIC.zip",
+  "bytes": 4997982,
+  "sha256": "c3d76ba11ecacc7562035fdfb7661a39ea0e63bf740f1ef0d3493558f29c20e2",
+  "files": 544,
+  "crc": "passed",
+  "inventory": "passed",
+  "file_sha256": "passed",
+  "extracted_to": "C:\\Users\\USER\\Documents\\anylogic-pms\\portfolio\\p3-assembly-flow-v2-extract-check-20261027",
+  "extracted_model_sha256": "28af0d6252136ccce9934b040cd225a83d6c79f66c67de4edcb9a6da7ec4898e",
+  "scope": "Archive integrity and optional fresh extraction; no AnyLogic execution"
+}

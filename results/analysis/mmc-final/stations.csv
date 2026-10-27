@@ -1,0 +1,6 @@
+seed,scenario,stage,capacity,utilization,mean_queue,empty_station_idle_fraction,starved_by_upstream_fraction,idle_units_mean
+11,0,Kitting,3,0.7140599314785786,1.4239872203067476,0.09448087607266958,0.0,0.8578202055642535
+11,0,Assembly,1,0.0,0.0,1.0,0.37949311246188694,1.0
+11,0,Test,1,0.0,0.0,1.0,0.0,1.0
+11,0,Quality,1,0.0,0.0,1.0,0.0,1.0
+11,0,Handover,1,0.0,0.0,1.0,0.0,1.0

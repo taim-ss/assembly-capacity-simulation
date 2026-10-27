@@ -1,0 +1,35 @@
+{
+  "label": "SYNTHETIC internal no-wait consistency and observed-rate discrepancy",
+  "e1_accuracy_bands_pass": true,
+  "all_native_waits_zero": true,
+  "all_native_mean_queues_zero": true,
+  "e1_utilization_range": [
+    0.0104292031027952,
+    0.0843407107247138
+  ],
+  "utilization_caveat": "The preregistration says utilization ~0. Actual pool utilization is nonzero; zero queues/waits establish nonbinding capacity. No new utilization threshold is invented.",
+  "e2_accuracy_bands_pass": false,
+  "e2_observed_comparisons": [
+    {
+      "metric": "mean_lead_h",
+      "observed_h": 55.46025641025641,
+      "native_mean_h": 66.5574333597898,
+      "native_ci95_low": 66.38021340084521,
+      "native_ci95_high": 66.73465331873439,
+      "relative_error": 0.20009242055146997,
+      "allowed_relative_error": 0.1,
+      "accuracy_band_pass": false
+    },
+    {
+      "metric": "p90_lead_h",
+      "observed_h": 73.86333333333333,
+      "native_mean_h": 91.4808712533664,
+      "native_ci95_low": 91.11179852614389,
+      "native_ci95_high": 91.8499439805889,
+      "relative_error": 0.23851533805721928,
+      "allowed_relative_error": 0.15,
+      "accuracy_band_pass": false
+    }
+  ],
+  "interpretation": "E1 verifies internal elapsed-as-service consistency only. Neither E1 nor E2 validates a real process or identifies capacities/service times."
+}

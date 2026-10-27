@@ -1,0 +1,116 @@
+{
+  "label": "SYNTHETIC actual AnyLogic native results",
+  "family": "mmc-final",
+  "runs": 1,
+  "warmup_jobs": 0,
+  "full_job_crn_checked": true,
+  "inputs": [
+    {
+      "file": "native-seed-11-scenario-0-mmc.log",
+      "sha256": "1fa23f73b5c4996c4b925e703f2f0cc5c8d757a94d78c721c04893425d503831",
+      "seed": 11,
+      "scenario": 0
+    }
+  ],
+  "mmc": {
+    "accepted": false,
+    "servers": 3,
+    "arrival_rate": 2.1,
+    "service_rate": 1.0,
+    "nominal_rho": 0.7000000000000001,
+    "criteria": "Same acceptance pattern as M/M/1: every analytic target inside its marginal 95% t CI, relative error <=5%, relative CI half-width <=5%.",
+    "finite_run_bias": "Empty start and complete drain; no warmup. Finite-run estimates approach but are not identical to steady-state expectations.",
+    "checks": [
+      {
+        "metric": "mean_lead_h",
+        "target": 1.547049441786284,
+        "relative_error": 0.08884479160107603,
+        "target_inside_ci95": false,
+        "accepted": false,
+        "n": 1,
+        "mean": 1.6844967270383473,
+        "ci95_low": null,
+        "ci95_high": null,
+        "half_width": null,
+        "relative_half_width": null,
+        "precision_under_5pct": false,
+        "precision_status": "insufficient_replications"
+      },
+      {
+        "metric": "mean_wait_h",
+        "target": 0.547049441786284,
+        "relative_error": 0.22955512765415134,
+        "target_inside_ci95": false,
+        "accepted": false,
+        "n": 1,
+        "mean": 0.6726274462286667,
+        "ci95_low": null,
+        "ci95_high": null,
+        "half_width": null,
+        "relative_half_width": null,
+        "precision_under_5pct": false,
+        "precision_status": "insufficient_replications"
+      },
+      {
+        "metric": "mean_wip",
+        "target": 3.248803827751196,
+        "relative_error": 0.09768616506801417,
+        "target_inside_ci95": false,
+        "accepted": false,
+        "n": 1,
+        "mean": 3.5661670147424958,
+        "ci95_low": null,
+        "ci95_high": null,
+        "half_width": null,
+        "relative_half_width": null,
+        "precision_under_5pct": false,
+        "precision_status": "insufficient_replications"
+      },
+      {
+        "metric": "mean_queue",
+        "target": 1.1488038277511965,
+        "relative_error": 0.23953906307417813,
+        "target_inside_ci95": false,
+        "accepted": false,
+        "n": 1,
+        "mean": 1.4239872203067476,
+        "ci95_low": null,
+        "ci95_high": null,
+        "half_width": null,
+        "relative_half_width": null,
+        "precision_under_5pct": false,
+        "precision_status": "insufficient_replications"
+      },
+      {
+        "metric": "throughput_per_h",
+        "target": 2.1,
+        "relative_error": 0.008119957532181775,
+        "target_inside_ci95": false,
+        "accepted": false,
+        "n": 1,
+        "mean": 2.117051910817582,
+        "ci95_low": null,
+        "ci95_high": null,
+        "half_width": null,
+        "relative_half_width": null,
+        "precision_under_5pct": false,
+        "precision_status": "insufficient_replications"
+      },
+      {
+        "metric": "utilization",
+        "target": 0.7000000000000001,
+        "relative_error": 0.020085616397969335,
+        "target_inside_ci95": false,
+        "accepted": false,
+        "n": 1,
+        "mean": 0.7140599314785786,
+        "ci95_low": null,
+        "ci95_high": null,
+        "half_width": null,
+        "relative_half_width": null,
+        "precision_under_5pct": false,
+        "precision_status": "insufficient_replications"
+      }
+    ]
+  }
+}

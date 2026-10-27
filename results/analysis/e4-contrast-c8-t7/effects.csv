@@ -1,0 +1,9 @@
+scenario,scenario_name,metric,positive_means,n,mean,ci95_low,ci95_high,half_width,relative_half_width,precision_under_5pct,precision_status
+2,Assembly +1,mean_lead_h,improvement,10,0.011662006600190723,-0.0015948563801098936,0.02491886958049134,0.013256862980300616,1.136756600710877,False,more_replications_needed
+2,Assembly +1,p90_lead_h,improvement,10,0.011896962980466696,-0.022839823059468238,0.046633749020401634,0.034736786039934936,2.9198028183300506,False,more_replications_needed
+2,Assembly +1,mean_wip,improvement,10,0.002323665452301782,-0.0002842190360048654,0.004931549940608429,0.0026078844883066473,1.1223149553320264,False,more_replications_needed
+2,Assembly +1,throughput_per_h,improvement,10,0.0,0.0,0.0,0.0,,False,undefined_near_zero
+3,Test +1,mean_lead_h,improvement,10,0.08331765943923201,0.06099122549530908,0.10564409338315495,0.022326433943922933,0.26796760847808965,False,more_replications_needed
+3,Test +1,p90_lead_h,improvement,10,0.17473067181505259,0.07429147404432063,0.27516986958578454,0.10043919777073196,0.5748229359356208,False,more_replications_needed
+3,Test +1,mean_wip,improvement,10,0.016315650342166598,0.011882632975938072,0.020748667708395126,0.004433017366228526,0.2717033813093995,False,more_replications_needed
+3,Test +1,throughput_per_h,improvement,10,0.0,0.0,0.0,0.0,,False,undefined_near_zero

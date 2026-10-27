@@ -1,0 +1,28 @@
+{
+  "label": "SYNTHETIC actual AnyLogic native results",
+  "family": "fresh-finite",
+  "runs": 3,
+  "warmup_jobs": 0,
+  "full_job_crn_checked": true,
+  "inputs": [
+    {
+      "file": "native-seed-51-scenario-0-finite.log",
+      "sha256": "65ad8c511f7979f0ec7b751e42647c9d8e2e49206fd3b371bc5f1fd1af514de0",
+      "seed": 51,
+      "scenario": 0
+    },
+    {
+      "file": "native-seed-51-scenario-2-finite.log",
+      "sha256": "76c5d23b83f4e3f6a8525bf4aa98ff9e1e66f256019be9290e3fdc8b65446de4",
+      "seed": 51,
+      "scenario": 2
+    },
+    {
+      "file": "native-seed-51-scenario-3-finite.log",
+      "sha256": "3527989730444985d7b21809c0e8d89deb39ebc7bb9c64e812ec8b0b107f441a",
+      "seed": 51,
+      "scenario": 3
+    }
+  ],
+  "inference": "Not estimated: one matched seed is a strict smoke check, not a replicated confidence interval."
+}

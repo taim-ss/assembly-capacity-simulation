@@ -1,0 +1,22 @@
+[
+  {
+    "family": "e4-contrast-c4-t4",
+    "runs": 30,
+    "warmup_jobs": 500
+  },
+  {
+    "family": "e4-contrast-c5-t4",
+    "runs": 30,
+    "warmup_jobs": 500
+  },
+  {
+    "family": "e4-contrast-c6-t5",
+    "runs": 30,
+    "warmup_jobs": 500
+  },
+  {
+    "family": "e4-contrast-c8-t7",
+    "runs": 30,
+    "warmup_jobs": 500
+  }
+]

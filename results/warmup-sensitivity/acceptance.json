@@ -1,0 +1,21 @@
+{
+  "label": "SYNTHETIC actual native cutoff sensitivity",
+  "native_runs": 1200,
+  "cutoffs": [
+    250,
+    500,
+    1000
+  ],
+  "all_raw_sha256_rechecked": true,
+  "accepted_input_manifest": "results\\analysis\\e2-confirmation\\acceptance.json",
+  "accepted_manifest_sha256": "6815f491012062674f0804f26f63310f87fe652c70824d8870b1ee456938afc2",
+  "w500_reproduction_pass": true,
+  "maximum_absolute_difference": {
+    "mean_lead_h": 7.105427357601002e-15,
+    "p90_lead_h": 1.4210854715202004e-14,
+    "mean_wip": 5.329070518200751e-15,
+    "throughput_per_h": 8.326672684688674e-17,
+    "window_hours": 3.637978807091713e-12
+  },
+  "interpretation": "Post-cutoff finite drained cohorts; no perpetual steady-state claim."
+}

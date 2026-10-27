@@ -1,0 +1,549 @@
+{
+  "label": "SYNTHETIC actual AnyLogic native results",
+  "family": "e5-rework10",
+  "runs": 90,
+  "warmup_jobs": 500,
+  "full_job_crn_checked": true,
+  "inputs": [
+    {
+      "file": "native-seed-1-scenario-0-finite.log",
+      "sha256": "d784b72f2ab19273b64f297cbc97fb8fa22244ea1393912671f7332255801372",
+      "seed": 1,
+      "scenario": 0
+    },
+    {
+      "file": "native-seed-1-scenario-2-finite.log",
+      "sha256": "26a390bb226106948353932e9bfa55922ccec37a5c8be5750638bd8cf3ad2888",
+      "seed": 1,
+      "scenario": 2
+    },
+    {
+      "file": "native-seed-1-scenario-3-finite.log",
+      "sha256": "40ab2a83beb5258b25c277042cc2c12c7765ef4f37dd11c0daaaadc22def4c6b",
+      "seed": 1,
+      "scenario": 3
+    },
+    {
+      "file": "native-seed-10-scenario-0-finite.log",
+      "sha256": "c47f34067700c370df4a24680cd2cec8e9c1ca8658488dae1c75eccf2d04d391",
+      "seed": 10,
+      "scenario": 0
+    },
+    {
+      "file": "native-seed-10-scenario-2-finite.log",
+      "sha256": "2f9921e5e6cca7f72afaa76145edfe4065092c35d2d24e3cd13caf97b4f66a39",
+      "seed": 10,
+      "scenario": 2
+    },
+    {
+      "file": "native-seed-10-scenario-3-finite.log",
+      "sha256": "bd440bc84dc8b2a2a957b9704920ac7898c6346e44af469a50b1d4cff5a9ba29",
+      "seed": 10,
+      "scenario": 3
+    },
+    {
+      "file": "native-seed-11-scenario-0-finite.log",
+      "sha256": "b2f2889d94514543872ae5ab2fc60a21a49f22a4c59ae52f7292637086ebe849",
+      "seed": 11,
+      "scenario": 0
+    },
+    {
+      "file": "native-seed-11-scenario-2-finite.log",
+      "sha256": "0bf68500dcb004fee036e7a9bb5f7138290de37782f4b5be63757df657798989",
+      "seed": 11,
+      "scenario": 2
+    },
+    {
+      "file": "native-seed-11-scenario-3-finite.log",
+      "sha256": "74e832a00b85f789aa3e410ba03d9531ae36d4b06b5b71fcba11ad5ee7505f7d",
+      "seed": 11,
+      "scenario": 3
+    },
+    {
+      "file": "native-seed-12-scenario-0-finite.log",
+      "sha256": "53bac40ae60c3466748106a00d176e5aecc094f10203d4cb9802931509bd52ea",
+      "seed": 12,
+      "scenario": 0
+    },
+    {
+      "file": "native-seed-12-scenario-2-finite.log",
+      "sha256": "5d8049ed573c3c038002f59ff343cd46f82362364e2e8e64ca8f3fb4efba8f2a",
+      "seed": 12,
+      "scenario": 2
+    },
+    {
+      "file": "native-seed-12-scenario-3-finite.log",
+      "sha256": "2f6f764333e6ad33b4b6229f77ebbeb092e4453b77965bf573fa9ba852098fc6",
+      "seed": 12,
+      "scenario": 3
+    },
+    {
+      "file": "native-seed-13-scenario-0-finite.log",
+      "sha256": "ffa810707edcfee8d5d3bbca5e82794f62154105af44223b2b7325910a645d06",
+      "seed": 13,
+      "scenario": 0
+    },
+    {
+      "file": "native-seed-13-scenario-2-finite.log",
+      "sha256": "90a0c421e93f9e1c98143cfda0b0ce8624d99420f1046040ca2a60a6a87dbfa3",
+      "seed": 13,
+      "scenario": 2
+    },
+    {
+      "file": "native-seed-13-scenario-3-finite.log",
+      "sha256": "701c8f553d3cbbdbcd13eb018f2ab82389122c007888427ff48d6d4610400971",
+      "seed": 13,
+      "scenario": 3
+    },
+    {
+      "file": "native-seed-14-scenario-0-finite.log",
+      "sha256": "18bc297b81a62577fb3166012c9fbd03797b71f552abe2a0fee078363f00d8b2",
+      "seed": 14,
+      "scenario": 0
+    },
+    {
+      "file": "native-seed-14-scenario-2-finite.log",
+      "sha256": "440e16b59b7cb2b3780271840eef7b465845f371df4c15db94dfd7b8b82454f6",
+      "seed": 14,
+      "scenario": 2
+    },
+    {
+      "file": "native-seed-14-scenario-3-finite.log",
+      "sha256": "96439e3c7c4722612c4a12c1848d4b9756a66046e86bfd99b86651b36322cfad",
+      "seed": 14,
+      "scenario": 3
+    },
+    {
+      "file": "native-seed-15-scenario-0-finite.log",
+      "sha256": "334b4cb41bf0e012346537e8a49b0557f690ca5b5d4826a27983718ac808b479",
+      "seed": 15,
+      "scenario": 0
+    },
+    {
+      "file": "native-seed-15-scenario-2-finite.log",
+      "sha256": "7f85651277cdf4adcd6bc4b47db7ee08a92e63b7cb24fe3f012333bb3fba3872",
+      "seed": 15,
+      "scenario": 2
+    },
+    {
+      "file": "native-seed-15-scenario-3-finite.log",
+      "sha256": "aa981f0f8dd930fcc565938e15156cb1ea9e6c206ccabd0402fd8d9235c630ea",
+      "seed": 15,
+      "scenario": 3
+    },
+    {
+      "file": "native-seed-16-scenario-0-finite.log",
+      "sha256": "8a01f20616385207bc7e46221aab0bbd786bd641955b64c5efe753aed5af1946",
+      "seed": 16,
+      "scenario": 0
+    },
+    {
+      "file": "native-seed-16-scenario-2-finite.log",
+      "sha256": "1b3ebef31554111039f0968b74c1f19c5781cf24a0d4784574d53ee3f3a85cd6",
+      "seed": 16,
+      "scenario": 2
+    },
+    {
+      "file": "native-seed-16-scenario-3-finite.log",
+      "sha256": "30869f17c85dc3da5b56330da0db8880ebdfadf01954f4a2ead25fa88b51e57c",
+      "seed": 16,
+      "scenario": 3
+    },
+    {
+      "file": "native-seed-17-scenario-0-finite.log",
+      "sha256": "cbdce9c0064fa19cf717deeb1ee6c9ed8c7f18974b8bfa1eb1826341254f7869",
+      "seed": 17,
+      "scenario": 0
+    },
+    {
+      "file": "native-seed-17-scenario-2-finite.log",
+      "sha256": "557131c325cb477bf61e26534033699f31d340aa57f0af55a41634b87992a22e",
+      "seed": 17,
+      "scenario": 2
+    },
+    {
+      "file": "native-seed-17-scenario-3-finite.log",
+      "sha256": "64e1d783452b9d7820ffd32134ad2c300e70fab3577fa537520217673d1cc38a",
+      "seed": 17,
+      "scenario": 3
+    },
+    {
+      "file": "native-seed-18-scenario-0-finite.log",
+      "sha256": "30138e845b1f28f6828bdd0af8b80cec05f6df691abb46705588399d911b08b9",
+      "seed": 18,
+      "scenario": 0
+    },
+    {
+      "file": "native-seed-18-scenario-2-finite.log",
+      "sha256": "cd9e706b8938226b620063be701935ddd4d2b9df07c5b640b54ac9d45a8c3fee",
+      "seed": 18,
+      "scenario": 2
+    },
+    {
+      "file": "native-seed-18-scenario-3-finite.log",
+      "sha256": "9e6818a451fa1ca2ebb5785694fb6f82bee7c73cab0070b30bd90dff4ef10286",
+      "seed": 18,
+      "scenario": 3
+    },
+    {
+      "file": "native-seed-19-scenario-0-finite.log",
+      "sha256": "7354ec9fe2cf5700c032edca5594601b48271513819a47532008e8a899ccf3cd",
+      "seed": 19,
+      "scenario": 0
+    },
+    {
+      "file": "native-seed-19-scenario-2-finite.log",
+      "sha256": "1ef34a1c24821db7cb96578d162d5f1ec542494b314becc4194c23b17fcb7a74",
+      "seed": 19,
+      "scenario": 2
+    },
+    {
+      "file": "native-seed-19-scenario-3-finite.log",
+      "sha256": "2534742d1ba7f7c1bb8a57fde646b9920caef93775d707e13ec46982c87a4e2b",
+      "seed": 19,
+      "scenario": 3
+    },
+    {
+      "file": "native-seed-2-scenario-0-finite.log",
+      "sha256": "ba954e8fcd4fd403210d3ac1a7e65586fc6d33b138b14f5eaa6e1bbe9adea3fb",
+      "seed": 2,
+      "scenario": 0
+    },
+    {
+      "file": "native-seed-2-scenario-2-finite.log",
+      "sha256": "a3d281e59abda418c9e4a7f51ed489a21e95d79ef1bf2e10d58135404b631efa",
+      "seed": 2,
+      "scenario": 2
+    },
+    {
+      "file": "native-seed-2-scenario-3-finite.log",
+      "sha256": "8a885e4b2442fdb452426b1f7626ef875eb732c07bf331e3006ada46145442c0",
+      "seed": 2,
+      "scenario": 3
+    },
+    {
+      "file": "native-seed-20-scenario-0-finite.log",
+      "sha256": "a3bed8866dc1c55a1f655c3c5c5f4a83c9fa3a783dadb7353a710b58b597ab3b",
+      "seed": 20,
+      "scenario": 0
+    },
+    {
+      "file": "native-seed-20-scenario-2-finite.log",
+      "sha256": "a8ac1bc83a734d8b955dac008adbd2363ae5c57e130753de82967467e34630ef",
+      "seed": 20,
+      "scenario": 2
+    },
+    {
+      "file": "native-seed-20-scenario-3-finite.log",
+      "sha256": "bb4c21d0baa092902c3d38e62a4486d3f7465a68e6f6c5498db825e884255a78",
+      "seed": 20,
+      "scenario": 3
+    },
+    {
+      "file": "native-seed-21-scenario-0-finite.log",
+      "sha256": "2a4e537a1dace3d28399354fae80eff91b373799330e2a35f2a82aa9834e93c3",
+      "seed": 21,
+      "scenario": 0
+    },
+    {
+      "file": "native-seed-21-scenario-2-finite.log",
+      "sha256": "d0cc1a0db7c4524278d612cd5a5ad3c9029ce0747c6f3990a2a900e30f20804a",
+      "seed": 21,
+      "scenario": 2
+    },
+    {
+      "file": "native-seed-21-scenario-3-finite.log",
+      "sha256": "0705b9bd7a45eccec534ab35d6c6065fde9596cb367a58a7302e6657132c50bd",
+      "seed": 21,
+      "scenario": 3
+    },
+    {
+      "file": "native-seed-22-scenario-0-finite.log",
+      "sha256": "38608296102739b4fa26e532619629d411bfe7f1e582f2f51ffadd533644f4e7",
+      "seed": 22,
+      "scenario": 0
+    },
+    {
+      "file": "native-seed-22-scenario-2-finite.log",
+      "sha256": "a1d4b70466023f609943bfe83305dbb3e32e3295b275bfb7911d196e594a2440",
+      "seed": 22,
+      "scenario": 2
+    },
+    {
+      "file": "native-seed-22-scenario-3-finite.log",
+      "sha256": "3a1f75137446ebdb3eda3dcec5f503e9a2caa981579778bd5e909a86be0ed2f7",
+      "seed": 22,
+      "scenario": 3
+    },
+    {
+      "file": "native-seed-23-scenario-0-finite.log",
+      "sha256": "08d76a72c74dac0e42dc9757a76a652c8b31c9f04db2bab5e2fa2dfcc49ecb22",
+      "seed": 23,
+      "scenario": 0
+    },
+    {
+      "file": "native-seed-23-scenario-2-finite.log",
+      "sha256": "e91e3d45ca9a45478015f293c5bfb2d9ffd63bcc1e9dc4ac850349f5e60023ed",
+      "seed": 23,
+      "scenario": 2
+    },
+    {
+      "file": "native-seed-23-scenario-3-finite.log",
+      "sha256": "0106e99e93ffcbe3ac34d89e23c8529edeaa0fed77833dce69403a83e59c0963",
+      "seed": 23,
+      "scenario": 3
+    },
+    {
+      "file": "native-seed-24-scenario-0-finite.log",
+      "sha256": "dc5489fafdf6e15939777a4bae758381ee6200683766339de55c0279d94f0cf9",
+      "seed": 24,
+      "scenario": 0
+    },
+    {
+      "file": "native-seed-24-scenario-2-finite.log",
+      "sha256": "f9d44eb07cd811ddeb8dd8e4dc71c50ada5a9bfa8984526fee52c9fcc2cfc814",
+      "seed": 24,
+      "scenario": 2
+    },
+    {
+      "file": "native-seed-24-scenario-3-finite.log",
+      "sha256": "7667e0395e2498eeed843dc5b94cd9498f023c456c2ccfbcec5fe11cfb2d7d99",
+      "seed": 24,
+      "scenario": 3
+    },
+    {
+      "file": "native-seed-25-scenario-0-finite.log",
+      "sha256": "f6de59a53348757e583540ab4d254fa40974ca2e930d59b913dc8c5c980e3975",
+      "seed": 25,
+      "scenario": 0
+    },
+    {
+      "file": "native-seed-25-scenario-2-finite.log",
+      "sha256": "3e5701c7b97eaf91b97dbf9cbc76a2e71fdbc5b7c32e2e3fb5a43a66b63876d4",
+      "seed": 25,
+      "scenario": 2
+    },
+    {
+      "file": "native-seed-25-scenario-3-finite.log",
+      "sha256": "10c3453d08d8b37ec4934f064886d5f930d41788da2c819be1da7ecf8bcff804",
+      "seed": 25,
+      "scenario": 3
+    },
+    {
+      "file": "native-seed-26-scenario-0-finite.log",
+      "sha256": "208e6d9b0c7ae0615a85e7bea0c36a22b98060eafb74e7bfdf05145ee629a2d4",
+      "seed": 26,
+      "scenario": 0
+    },
+    {
+      "file": "native-seed-26-scenario-2-finite.log",
+      "sha256": "8bd3378b87317fab9d124d032811554eb30dc5d643c900e6a43d07e28ae799c2",
+      "seed": 26,
+      "scenario": 2
+    },
+    {
+      "file": "native-seed-26-scenario-3-finite.log",
+      "sha256": "4fac53c7fead34823f74210dec0d8f3295f1484ec878f64762c53fdbba2ca952",
+      "seed": 26,
+      "scenario": 3
+    },
+    {
+      "file": "native-seed-27-scenario-0-finite.log",
+      "sha256": "33cb5ffadd73ff74fc271869945f7be697928fa718a0fed26e492b3765086055",
+      "seed": 27,
+      "scenario": 0
+    },
+    {
+      "file": "native-seed-27-scenario-2-finite.log",
+      "sha256": "44e5b74fae3c5afc4fb4060c19d1a91b5a8214f9815d5e6311a8356c73f0a5df",
+      "seed": 27,
+      "scenario": 2
+    },
+    {
+      "file": "native-seed-27-scenario-3-finite.log",
+      "sha256": "33bbc72aa64c48d2d9b8b4c0214e7a6fb932d998292ff2c0f3a89ef486e6e7e9",
+      "seed": 27,
+      "scenario": 3
+    },
+    {
+      "file": "native-seed-28-scenario-0-finite.log",
+      "sha256": "c32ec92b8c14251c75e1bd6fffe4560f826cc826925963e5aaa2ab8f979d0749",
+      "seed": 28,
+      "scenario": 0
+    },
+    {
+      "file": "native-seed-28-scenario-2-finite.log",
+      "sha256": "51db517e863891e974407050ee6fe70e08902eecca6edba0f0044ab4fa34674c",
+      "seed": 28,
+      "scenario": 2
+    },
+    {
+      "file": "native-seed-28-scenario-3-finite.log",
+      "sha256": "966e88cc0391224ebbafcb2bae6060750665b1afae6c196ea1f728a97fdbaa39",
+      "seed": 28,
+      "scenario": 3
+    },
+    {
+      "file": "native-seed-29-scenario-0-finite.log",
+      "sha256": "0fbfd859a334e76be94d2d46fb29f00dd9ae1280648837fd482edd9f36435fc4",
+      "seed": 29,
+      "scenario": 0
+    },
+    {
+      "file": "native-seed-29-scenario-2-finite.log",
+      "sha256": "ef6b76599c9ed5becab9771183c3c1cb256ba8dc8b8963f4f19c2498e095b3c3",
+      "seed": 29,
+      "scenario": 2
+    },
+    {
+      "file": "native-seed-29-scenario-3-finite.log",
+      "sha256": "22fe4b597b6b175b96da4b792d5327f5417f88257a3e4e6aac9317f6b43504db",
+      "seed": 29,
+      "scenario": 3
+    },
+    {
+      "file": "native-seed-3-scenario-0-finite.log",
+      "sha256": "9e730a36866a1f5ca70781c09f54a3f97bf427c53d280753ba295b26bc1acf71",
+      "seed": 3,
+      "scenario": 0
+    },
+    {
+      "file": "native-seed-3-scenario-2-finite.log",
+      "sha256": "a674ea4f659fed6c434c2bf98b2039f18aea4a1baffee33d386d7d2b5f041a5a",
+      "seed": 3,
+      "scenario": 2
+    },
+    {
+      "file": "native-seed-3-scenario-3-finite.log",
+      "sha256": "8ef213990e140f61e27b6f71502b0a1ee3151c7be0b2d97f5faea22e722cbaef",
+      "seed": 3,
+      "scenario": 3
+    },
+    {
+      "file": "native-seed-30-scenario-0-finite.log",
+      "sha256": "0ce4047dceabd9a48132bd96da745564ba210f5b97f9bc7651a57d3415cbadea",
+      "seed": 30,
+      "scenario": 0
+    },
+    {
+      "file": "native-seed-30-scenario-2-finite.log",
+      "sha256": "d24deabe41aff7c7de2a1d3c294f9546f16fe2ffbd74b634858371b0eb2159ce",
+      "seed": 30,
+      "scenario": 2
+    },
+    {
+      "file": "native-seed-30-scenario-3-finite.log",
+      "sha256": "401606d8aa468d029ecda9280955a908ce5ae43c4d5bec74e04aca2e55ebe334",
+      "seed": 30,
+      "scenario": 3
+    },
+    {
+      "file": "native-seed-4-scenario-0-finite.log",
+      "sha256": "dd3f646615380e68cc3b5912e21681b913a25b192dfae154795e20306cfc454b",
+      "seed": 4,
+      "scenario": 0
+    },
+    {
+      "file": "native-seed-4-scenario-2-finite.log",
+      "sha256": "2442682ebf0595b2a09d3db5d14b3143fc03b164cfc48d54376064106f45a867",
+      "seed": 4,
+      "scenario": 2
+    },
+    {
+      "file": "native-seed-4-scenario-3-finite.log",
+      "sha256": "71ce746a39e24781ca543aeedfd6c3da6f5caefd7e7b93b57d5d5e6994fbeb25",
+      "seed": 4,
+      "scenario": 3
+    },
+    {
+      "file": "native-seed-5-scenario-0-finite.log",
+      "sha256": "ad8ce863bd78b2beac8b396f739ec84f758304f39290f590c3dce781638bfb0c",
+      "seed": 5,
+      "scenario": 0
+    },
+    {
+      "file": "native-seed-5-scenario-2-finite.log",
+      "sha256": "df6dc571b18bf6c66af1bf3ca61040b2ab1cef992c64d9e80bb7add3107af81d",
+      "seed": 5,
+      "scenario": 2
+    },
+    {
+      "file": "native-seed-5-scenario-3-finite.log",
+      "sha256": "d2e45ec5e213bacdb339850f5edc591779f854f36b8a8d30135086c011c2594d",
+      "seed": 5,
+      "scenario": 3
+    },
+    {
+      "file": "native-seed-6-scenario-0-finite.log",
+      "sha256": "718248842d9a2b63442112a9e12373f2cb73f34ef2d0ff5c842888f01115697e",
+      "seed": 6,
+      "scenario": 0
+    },
+    {
+      "file": "native-seed-6-scenario-2-finite.log",
+      "sha256": "d102e06b63cabc0da3e9a49cb8d9ff746c36ed1d01b15abfa9fa9c2567154f4c",
+      "seed": 6,
+      "scenario": 2
+    },
+    {
+      "file": "native-seed-6-scenario-3-finite.log",
+      "sha256": "93988a055380958c09625bd6328156d3c94929205dd27105fa3029cfce47660c",
+      "seed": 6,
+      "scenario": 3
+    },
+    {
+      "file": "native-seed-7-scenario-0-finite.log",
+      "sha256": "9e51aca787f6fd8de7930f42eb919d4a32c414197513146a35c825ef5a32ae0e",
+      "seed": 7,
+      "scenario": 0
+    },
+    {
+      "file": "native-seed-7-scenario-2-finite.log",
+      "sha256": "d0aa60eba2c8135433b03ee4578a86b5bea8e4acc49dcae77aad3c389b70c8b0",
+      "seed": 7,
+      "scenario": 2
+    },
+    {
+      "file": "native-seed-7-scenario-3-finite.log",
+      "sha256": "da9f13b9b49e96abb57c90c5dd67e31e0cdf7a624762943f6cea0ae9d2ae8774",
+      "seed": 7,
+      "scenario": 3
+    },
+    {
+      "file": "native-seed-8-scenario-0-finite.log",
+      "sha256": "52141de9ded5d4e5e6d95f4f5ed6e2699f08f0360a6a3521c7bd42728acea6c1",
+      "seed": 8,
+      "scenario": 0
+    },
+    {
+      "file": "native-seed-8-scenario-2-finite.log",
+      "sha256": "ec373cb3dcbc3a93c0f7df8fa500544c68ad9acd8c8cd988a3971cba5725d2b5",
+      "seed": 8,
+      "scenario": 2
+    },
+    {
+      "file": "native-seed-8-scenario-3-finite.log",
+      "sha256": "59e7ad7a95c40d9c7fbe99b34a374a3b60780e996206896f9b576ccf36074c54",
+      "seed": 8,
+      "scenario": 3
+    },
+    {
+      "file": "native-seed-9-scenario-0-finite.log",
+      "sha256": "17948cd0766ce3d4c86c5da460ae6709978e378d1a4fd5791843dd99e6600186",
+      "seed": 9,
+      "scenario": 0
+    },
+    {
+      "file": "native-seed-9-scenario-2-finite.log",
+      "sha256": "523b05c51fb844a6492ff6620851153af316e58cdfa54b92cfda4c77c60f1dc2",
+      "seed": 9,
+      "scenario": 2
+    },
+    {
+      "file": "native-seed-9-scenario-3-finite.log",
+      "sha256": "eb430ca6b25f83df5d80b12f83b48f05ecbf29c2059866375ed98031922bdc54",
+      "seed": 9,
+      "scenario": 3
+    }
+  ]
+}

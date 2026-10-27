@@ -1,0 +1,16 @@
+{
+  "data": "SYNTHETIC",
+  "sha256": "28af0d6252136ccce9934b040cd225a83d6c79f66c67de4edcb9a6da7ec4898e",
+  "xml_parse": true,
+  "unique_ids": true,
+  "classes": 3,
+  "blocks": 23,
+  "connections": 19,
+  "java_snippets_compiled": true,
+  "input_expression_probe_pass": true,
+  "java_diagnostics": "P3_INPUT_PROBE_PASS\n",
+  "editor_load": false,
+  "anylogic_codegen": false,
+  "anylogic_run": false,
+  "scope": "Static XML, real Engine/PML callback compilation, AS241/geometric sampling probe only. Runtime evidence is separate."
+}

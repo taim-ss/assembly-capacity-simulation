@@ -1,0 +1,170 @@
+{
+  "label": "SYNTHETIC actual AnyLogic native results",
+  "family": "e6-pilot",
+  "runs": 10,
+  "warmup_jobs": 0,
+  "full_job_crn_checked": true,
+  "inputs": [
+    {
+      "file": "native-seed-1-scenario-0-mmc.log",
+      "sha256": "077a7d15ec32aabadac48aa37472471d07afa79d3c0aee7a6a956a5dae8a0cf3",
+      "seed": 1,
+      "scenario": 0
+    },
+    {
+      "file": "native-seed-10-scenario-0-mmc.log",
+      "sha256": "ba05936d7a8f10970deea4322b3480237d8f54b1bc1c0f36e947a071a1c5fa8e",
+      "seed": 10,
+      "scenario": 0
+    },
+    {
+      "file": "native-seed-2-scenario-0-mmc.log",
+      "sha256": "226ecee84df895288e565ae35988858ab3a7b4f14f4e01a76421dcb57dd3858f",
+      "seed": 2,
+      "scenario": 0
+    },
+    {
+      "file": "native-seed-3-scenario-0-mmc.log",
+      "sha256": "d26baf176348cdb914b47d8ac31ef81598d485c6d50f9c2d91a0af9ac2c6a840",
+      "seed": 3,
+      "scenario": 0
+    },
+    {
+      "file": "native-seed-4-scenario-0-mmc.log",
+      "sha256": "cc555f50831aec3d9db2d89926fdb492b0b49f47967e2f1f311c97ab4dde5c43",
+      "seed": 4,
+      "scenario": 0
+    },
+    {
+      "file": "native-seed-5-scenario-0-mmc.log",
+      "sha256": "6cadbe73d74288cde11b396cf4cf86526a1f2da5e8a3a1f68da8a76d1090a84f",
+      "seed": 5,
+      "scenario": 0
+    },
+    {
+      "file": "native-seed-6-scenario-0-mmc.log",
+      "sha256": "f7e5aa2f1d1b4b7ce75b4630e04788cd09451fa506f38bb7c64eae620fe88add",
+      "seed": 6,
+      "scenario": 0
+    },
+    {
+      "file": "native-seed-7-scenario-0-mmc.log",
+      "sha256": "484f1e0d340f05983835e2a08103953f9cc1248c6daab2ebc29cac67ae95ffbf",
+      "seed": 7,
+      "scenario": 0
+    },
+    {
+      "file": "native-seed-8-scenario-0-mmc.log",
+      "sha256": "97c75cfeab63f6138a08bb5348f95a7a8007681dabf3674367725d61f815f39b",
+      "seed": 8,
+      "scenario": 0
+    },
+    {
+      "file": "native-seed-9-scenario-0-mmc.log",
+      "sha256": "c00c1db7bc0996372373d49f50d62b771ece8ee0c979ccba2723c98b878663a4",
+      "seed": 9,
+      "scenario": 0
+    }
+  ],
+  "mmc": {
+    "accepted": false,
+    "servers": 3,
+    "arrival_rate": 2.1,
+    "service_rate": 1.0,
+    "nominal_rho": 0.7000000000000001,
+    "criteria": "Same acceptance pattern as M/M/1: every analytic target inside its marginal 95% t CI, relative error <=5%, relative CI half-width <=5%.",
+    "finite_run_bias": "Empty start and complete drain; no warmup. Finite-run estimates approach but are not identical to steady-state expectations.",
+    "checks": [
+      {
+        "metric": "mean_lead_h",
+        "target": 1.547049441786284,
+        "relative_error": 0.013863202511826312,
+        "target_inside_ci95": true,
+        "accepted": true,
+        "n": 10,
+        "mean": 1.568496501493575,
+        "ci95_low": 1.512847688521589,
+        "ci95_high": 1.624145314465561,
+        "half_width": 0.05564881297198612,
+        "relative_half_width": 0.035479080073813014,
+        "precision_under_5pct": true,
+        "precision_status": "target_met"
+      },
+      {
+        "metric": "mean_wait_h",
+        "target": 0.547049441786284,
+        "relative_error": 0.036320550959295976,
+        "target_inside_ci95": true,
+        "accepted": false,
+        "n": 10,
+        "mean": 0.5669185789139372,
+        "ci95_low": 0.5158754679080311,
+        "ci95_high": 0.6179616899198432,
+        "half_width": 0.05104311100590613,
+        "relative_half_width": 0.0900360526262712,
+        "precision_under_5pct": false,
+        "precision_status": "more_replications_needed"
+      },
+      {
+        "metric": "mean_wip",
+        "target": 3.248803827751196,
+        "relative_error": 0.015184708030706318,
+        "target_inside_ci95": true,
+        "accepted": true,
+        "n": 10,
+        "mean": 3.298135965324639,
+        "ci95_low": 3.15483965852214,
+        "ci95_high": 3.4414322721271384,
+        "half_width": 0.14329630680249938,
+        "relative_half_width": 0.04344766507780845,
+        "precision_under_5pct": true,
+        "precision_status": "target_met"
+      },
+      {
+        "metric": "mean_queue",
+        "target": 1.1488038277511965,
+        "relative_error": 0.03838448601781912,
+        "target_inside_ci95": true,
+        "accepted": false,
+        "n": 10,
+        "mean": 1.1929000722147294,
+        "ci95_low": 1.076313545519544,
+        "ci95_high": 1.3094865989099147,
+        "half_width": 0.11658652669518543,
+        "relative_half_width": 0.09773369070112617,
+        "precision_under_5pct": false,
+        "precision_status": "more_replications_needed"
+      },
+      {
+        "metric": "throughput_per_h",
+        "target": 2.1,
+        "relative_error": 0.0008533917637648394,
+        "target_inside_ci95": true,
+        "accepted": true,
+        "n": 10,
+        "mean": 2.1017921227039063,
+        "ci95_low": 2.0802796178668976,
+        "ci95_high": 2.123304627540915,
+        "half_width": 0.02151250483700879,
+        "relative_half_width": 0.010235315188703561,
+        "precision_under_5pct": true,
+        "precision_status": "target_met"
+      },
+      {
+        "metric": "utilization",
+        "target": 0.7000000000000001,
+        "relative_error": 0.0024932824332887394,
+        "target_inside_ci95": true,
+        "accepted": true,
+        "n": 10,
+        "mean": 0.7017452977033022,
+        "ci95_low": 0.6914863202640222,
+        "ci95_high": 0.7120042751425821,
+        "half_width": 0.01025897743928,
+        "relative_half_width": 0.01461923218132841,
+        "precision_under_5pct": true,
+        "precision_status": "target_met"
+      }
+    ]
+  }
+}

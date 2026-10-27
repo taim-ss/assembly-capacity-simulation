@@ -1,0 +1,15 @@
+{
+  "label": "SYNTHETIC actual AnyLogic native results",
+  "family": "e0-replay",
+  "runs": 1,
+  "warmup_jobs": 0,
+  "full_job_crn_checked": true,
+  "inputs": [
+    {
+      "file": "native-seed-1-scenario-0-replay.log",
+      "sha256": "903568d96cc14bea97e487ef0818641c8863e655917dbdbe6392c45e9b3bed56",
+      "seed": 1,
+      "scenario": 0
+    }
+  ]
+}

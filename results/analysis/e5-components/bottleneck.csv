@@ -1,0 +1,4 @@
+scenario,scenario_label,highest_utilization_stage,highest_utilization,highest_queue_stage,highest_queue,downstream_of_top_utilization,downstream_starved_by_upstream_fraction,bottleneck_call,evidence_agrees
+0,Baseline,Assembly,0.7487877185515452,Assembly,0.871328993442389,Test,0.004168688293562846,ambiguous/moving bottleneck,False
+2,Assembly +1,Test,0.6775460134166631,Test,0.38700134369516037,Quality,0.028021848064973372,Test,True
+3,Test +1,Assembly,0.7500122712205638,Assembly,0.8725328593567659,Test,0.0050732775565754396,ambiguous/moving bottleneck,False

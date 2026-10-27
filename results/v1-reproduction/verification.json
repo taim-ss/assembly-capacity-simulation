@@ -1,0 +1,45 @@
+{
+  "label": "SYNTHETIC actual v1 AnyLogic logs independently reanalyzed with v2 analyzer",
+  "runs": 1140,
+  "baseline_mean_h": 86.99117226353177,
+  "assembly_saves_h": 12.34949246792436,
+  "test_saves_h": 7.792121364173329,
+  "direct": [
+    {
+      "metric": "mean_lead_h",
+      "positive_means": "Assembly +1 shorter than Test +1",
+      "p_two_sided": 2.117170788e-42,
+      "n": 190,
+      "mean": 4.5573711038,
+      "ci95_low": 4.0536329179,
+      "ci95_high": 5.0611092896,
+      "half_width": 0.5037381858,
+      "relative_half_width": 0.1105326238,
+      "precision_under_5pct": false,
+      "precision_status": "more_replications_needed",
+      "absolute_tolerance": 0.5,
+      "absolute_precision_met": false,
+      "ci_excludes_zero": true,
+      "holm_p": 4.234341575e-42,
+      "holm_reject_005": true
+    },
+    {
+      "metric": "p90_lead_h",
+      "positive_means": "Assembly +1 shorter than Test +1",
+      "p_two_sided": 7.581630087e-26,
+      "n": 190,
+      "mean": 8.9093723175,
+      "ci95_low": 7.4775222471,
+      "ci95_high": 10.3412223879,
+      "half_width": 1.4318500704,
+      "relative_half_width": 0.1607127887,
+      "precision_under_5pct": false,
+      "precision_status": "more_replications_needed",
+      "absolute_tolerance": 0.5,
+      "absolute_precision_met": false,
+      "ci_excludes_zero": true,
+      "holm_p": 7.581630087e-26,
+      "holm_reject_005": true
+    }
+  ]
+}

@@ -1,0 +1,1379 @@
+{
+  "label": "SYNTHETIC final native verification; exact tapes, tolerance1e-9h",
+  "tolerance_h": 1e-09,
+  "passed": true,
+  "groups": {
+    "e0-final-default": [
+      {
+        "seed": 1,
+        "scenario": 0,
+        "max_absolute_error_h": {
+          "orders": 0.0,
+          "stages": 0.0,
+          "kits": 0.0
+        },
+        "first_sha256": "4a4adb49c6ff6506aa8bf8df694221e6a41c4caa5f10f0e81578bf0d94c5e8f6",
+        "second_sha256": "4a4adb49c6ff6506aa8bf8df694221e6a41c4caa5f10f0e81578bf0d94c5e8f6"
+      },
+      {
+        "seed": 1,
+        "scenario": 1,
+        "max_absolute_error_h": {
+          "orders": 0.0,
+          "stages": 0.0,
+          "kits": 0.0
+        },
+        "first_sha256": "f5177eb7e7743b093c5307ad1f733464bcf707e5e1befce4c1da964840453f61",
+        "second_sha256": "f5177eb7e7743b093c5307ad1f733464bcf707e5e1befce4c1da964840453f61"
+      },
+      {
+        "seed": 1,
+        "scenario": 2,
+        "max_absolute_error_h": {
+          "orders": 0.0,
+          "stages": 0.0,
+          "kits": 0.0
+        },
+        "first_sha256": "6ec21a12d403ebba30afa839bb98af5784b3776af066e8f78b39bf3f1e08f91d",
+        "second_sha256": "6ec21a12d403ebba30afa839bb98af5784b3776af066e8f78b39bf3f1e08f91d"
+      },
+      {
+        "seed": 1,
+        "scenario": 3,
+        "max_absolute_error_h": {
+          "orders": 0.0,
+          "stages": 0.0,
+          "kits": 0.0
+        },
+        "first_sha256": "a0b5ae3f015e1fa268a76ea2739fac757da2022848c13323b191bd897d29bafe",
+        "second_sha256": "a0b5ae3f015e1fa268a76ea2739fac757da2022848c13323b191bd897d29bafe"
+      },
+      {
+        "seed": 1,
+        "scenario": 4,
+        "max_absolute_error_h": {
+          "orders": 0.0,
+          "stages": 0.0,
+          "kits": 0.0
+        },
+        "first_sha256": "d7c83f1e5b40cd3610af1e9257f9be9bb86dcb3d51fb53d6ec9ebda8c2c7663c",
+        "second_sha256": "d7c83f1e5b40cd3610af1e9257f9be9bb86dcb3d51fb53d6ec9ebda8c2c7663c"
+      },
+      {
+        "seed": 1,
+        "scenario": 5,
+        "max_absolute_error_h": {
+          "orders": 0.0,
+          "stages": 0.0,
+          "kits": 0.0
+        },
+        "first_sha256": "8f1c768db42626554f20b3a2714116d33dbad6f693e6c14822630ce2a8a62758",
+        "second_sha256": "8f1c768db42626554f20b3a2714116d33dbad6f693e6c14822630ce2a8a62758"
+      },
+      {
+        "seed": 10,
+        "scenario": 0,
+        "max_absolute_error_h": {
+          "orders": 0.0,
+          "stages": 0.0,
+          "kits": 0.0
+        },
+        "first_sha256": "9affa0f3f8891f8a91f4d28d53d61506ba0f75283b9579297a4df0ce6ae16e35",
+        "second_sha256": "9affa0f3f8891f8a91f4d28d53d61506ba0f75283b9579297a4df0ce6ae16e35"
+      },
+      {
+        "seed": 10,
+        "scenario": 1,
+        "max_absolute_error_h": {
+          "orders": 0.0,
+          "stages": 0.0,
+          "kits": 0.0
+        },
+        "first_sha256": "0f85257d91ab6e201f6065ebfffb0a2527b359ed88d5760c09bb39248f8b18c0",
+        "second_sha256": "0f85257d91ab6e201f6065ebfffb0a2527b359ed88d5760c09bb39248f8b18c0"
+      },
+      {
+        "seed": 10,
+        "scenario": 2,
+        "max_absolute_error_h": {
+          "orders": 0.0,
+          "stages": 0.0,
+          "kits": 0.0
+        },
+        "first_sha256": "acd680bb747096abf706333e50713a09a5e0e23130fa7e0be78688fd37b584e8",
+        "second_sha256": "acd680bb747096abf706333e50713a09a5e0e23130fa7e0be78688fd37b584e8"
+      },
+      {
+        "seed": 10,
+        "scenario": 3,
+        "max_absolute_error_h": {
+          "orders": 0.0,
+          "stages": 0.0,
+          "kits": 0.0
+        },
+        "first_sha256": "53ada8a1b463f4bc959ccfdb74396bc369bcf925c41e426c806325103ef2dff1",
+        "second_sha256": "53ada8a1b463f4bc959ccfdb74396bc369bcf925c41e426c806325103ef2dff1"
+      },
+      {
+        "seed": 10,
+        "scenario": 4,
+        "max_absolute_error_h": {
+          "orders": 0.0,
+          "stages": 0.0,
+          "kits": 0.0
+        },
+        "first_sha256": "3d8085427d493ca0e3c5e19e07a523a3f721e88dddd1014aadbdc530b569ede5",
+        "second_sha256": "3d8085427d493ca0e3c5e19e07a523a3f721e88dddd1014aadbdc530b569ede5"
+      },
+      {
+        "seed": 10,
+        "scenario": 5,
+        "max_absolute_error_h": {
+          "orders": 0.0,
+          "stages": 0.0,
+          "kits": 0.0
+        },
+        "first_sha256": "c8f569aa868addb479948631d6cd463f8353caced25bcde53944e129a7dd395a",
+        "second_sha256": "c8f569aa868addb479948631d6cd463f8353caced25bcde53944e129a7dd395a"
+      },
+      {
+        "seed": 2,
+        "scenario": 0,
+        "max_absolute_error_h": {
+          "orders": 0.0,
+          "stages": 0.0,
+          "kits": 0.0
+        },
+        "first_sha256": "82191f8fafe4912d3cd1de9528c3a4f1a398ee527734f6be56378dc7a408bc3a",
+        "second_sha256": "82191f8fafe4912d3cd1de9528c3a4f1a398ee527734f6be56378dc7a408bc3a"
+      },
+      {
+        "seed": 2,
+        "scenario": 1,
+        "max_absolute_error_h": {
+          "orders": 0.0,
+          "stages": 0.0,
+          "kits": 0.0
+        },
+        "first_sha256": "3f49409153c97ed4cb699c3a37ef2f4ef3129fc86b0378cc8b205a0a9d5847f5",
+        "second_sha256": "3f49409153c97ed4cb699c3a37ef2f4ef3129fc86b0378cc8b205a0a9d5847f5"
+      },
+      {
+        "seed": 2,
+        "scenario": 2,
+        "max_absolute_error_h": {
+          "orders": 0.0,
+          "stages": 0.0,
+          "kits": 0.0
+        },
+        "first_sha256": "67a226897b2c8e745ba68c159030771837523aa34381a9b72d0a2819478375ee",
+        "second_sha256": "67a226897b2c8e745ba68c159030771837523aa34381a9b72d0a2819478375ee"
+      },
+      {
+        "seed": 2,
+        "scenario": 3,
+        "max_absolute_error_h": {
+          "orders": 0.0,
+          "stages": 0.0,
+          "kits": 0.0
+        },
+        "first_sha256": "1de3c9ab4edc7e7ba3af90857a97e208a55fe91913623933016ba97d8272f0c1",
+        "second_sha256": "1de3c9ab4edc7e7ba3af90857a97e208a55fe91913623933016ba97d8272f0c1"
+      },
+      {
+        "seed": 2,
+        "scenario": 4,
+        "max_absolute_error_h": {
+          "orders": 0.0,
+          "stages": 0.0,
+          "kits": 0.0
+        },
+        "first_sha256": "47e466cc8b2f774a86f2f315f9591bde742257fbe32a4c10508a409ccd9528b6",
+        "second_sha256": "47e466cc8b2f774a86f2f315f9591bde742257fbe32a4c10508a409ccd9528b6"
+      },
+      {
+        "seed": 2,
+        "scenario": 5,
+        "max_absolute_error_h": {
+          "orders": 0.0,
+          "stages": 0.0,
+          "kits": 0.0
+        },
+        "first_sha256": "57e2c6d303dc76b95709ebebeced9e3f427b80a003c102e658a17d718c832785",
+        "second_sha256": "57e2c6d303dc76b95709ebebeced9e3f427b80a003c102e658a17d718c832785"
+      },
+      {
+        "seed": 3,
+        "scenario": 0,
+        "max_absolute_error_h": {
+          "orders": 0.0,
+          "stages": 0.0,
+          "kits": 0.0
+        },
+        "first_sha256": "542db85f7608e2747958b051dac2dc8cb52fb216dd8edb4c6abca9385ab64c09",
+        "second_sha256": "542db85f7608e2747958b051dac2dc8cb52fb216dd8edb4c6abca9385ab64c09"
+      },
+      {
+        "seed": 3,
+        "scenario": 1,
+        "max_absolute_error_h": {
+          "orders": 0.0,
+          "stages": 0.0,
+          "kits": 0.0
+        },
+        "first_sha256": "a7c97f19d6b1fa555853936e076cc39d18d3b149277cf3dc342b4f430b6042a7",
+        "second_sha256": "a7c97f19d6b1fa555853936e076cc39d18d3b149277cf3dc342b4f430b6042a7"
+      },
+      {
+        "seed": 3,
+        "scenario": 2,
+        "max_absolute_error_h": {
+          "orders": 0.0,
+          "stages": 0.0,
+          "kits": 0.0
+        },
+        "first_sha256": "f214444f2b2d05641479bdf14dd63a533bd3f16fa9b322b4a59ae733b3bd5f2e",
+        "second_sha256": "f214444f2b2d05641479bdf14dd63a533bd3f16fa9b322b4a59ae733b3bd5f2e"
+      },
+      {
+        "seed": 3,
+        "scenario": 3,
+        "max_absolute_error_h": {
+          "orders": 0.0,
+          "stages": 0.0,
+          "kits": 0.0
+        },
+        "first_sha256": "cb06fc8ca19eda287553d2bc4bacf283a27e0bc9a827f7ee2a8256ce1fe02775",
+        "second_sha256": "cb06fc8ca19eda287553d2bc4bacf283a27e0bc9a827f7ee2a8256ce1fe02775"
+      },
+      {
+        "seed": 3,
+        "scenario": 4,
+        "max_absolute_error_h": {
+          "orders": 0.0,
+          "stages": 0.0,
+          "kits": 0.0
+        },
+        "first_sha256": "78c3efd5bf5615be0f39373581c06760fbaab6ee7afbcedbb28bb24c3cdb03a7",
+        "second_sha256": "78c3efd5bf5615be0f39373581c06760fbaab6ee7afbcedbb28bb24c3cdb03a7"
+      },
+      {
+        "seed": 3,
+        "scenario": 5,
+        "max_absolute_error_h": {
+          "orders": 0.0,
+          "stages": 0.0,
+          "kits": 0.0
+        },
+        "first_sha256": "9ad0b02d65575c358d45cc434a79e0a349806584368331c140e41518181ad9a1",
+        "second_sha256": "9ad0b02d65575c358d45cc434a79e0a349806584368331c140e41518181ad9a1"
+      },
+      {
+        "seed": 4,
+        "scenario": 0,
+        "max_absolute_error_h": {
+          "orders": 0.0,
+          "stages": 0.0,
+          "kits": 0.0
+        },
+        "first_sha256": "ff1f0e2f0e1b4704cdba54fa1a2974b9c94655448c884db2989b1f9616ed7f18",
+        "second_sha256": "ff1f0e2f0e1b4704cdba54fa1a2974b9c94655448c884db2989b1f9616ed7f18"
+      },
+      {
+        "seed": 4,
+        "scenario": 1,
+        "max_absolute_error_h": {
+          "orders": 0.0,
+          "stages": 0.0,
+          "kits": 0.0
+        },
+        "first_sha256": "7b4dbf2e4a967be8cc21e8d081fa1dfcb491321cb72d07dc1d1519e729f1d419",
+        "second_sha256": "7b4dbf2e4a967be8cc21e8d081fa1dfcb491321cb72d07dc1d1519e729f1d419"
+      },
+      {
+        "seed": 4,
+        "scenario": 2,
+        "max_absolute_error_h": {
+          "orders": 0.0,
+          "stages": 0.0,
+          "kits": 0.0
+        },
+        "first_sha256": "d9425f57028ab47346c0e33771786da705cb8ef5e3f61976f8af28496afa0088",
+        "second_sha256": "d9425f57028ab47346c0e33771786da705cb8ef5e3f61976f8af28496afa0088"
+      },
+      {
+        "seed": 4,
+        "scenario": 3,
+        "max_absolute_error_h": {
+          "orders": 0.0,
+          "stages": 0.0,
+          "kits": 0.0
+        },
+        "first_sha256": "a9e35eefc78d9aa979b529312ff765ec53fc2f9b04a4e48197271fcef1ce06d4",
+        "second_sha256": "a9e35eefc78d9aa979b529312ff765ec53fc2f9b04a4e48197271fcef1ce06d4"
+      },
+      {
+        "seed": 4,
+        "scenario": 4,
+        "max_absolute_error_h": {
+          "orders": 0.0,
+          "stages": 0.0,
+          "kits": 0.0
+        },
+        "first_sha256": "8b1bc52c7909250c4a159c1aa4a7ee6288368712566a9ca16e875e04b99a9bb3",
+        "second_sha256": "8b1bc52c7909250c4a159c1aa4a7ee6288368712566a9ca16e875e04b99a9bb3"
+      },
+      {
+        "seed": 4,
+        "scenario": 5,
+        "max_absolute_error_h": {
+          "orders": 0.0,
+          "stages": 0.0,
+          "kits": 0.0
+        },
+        "first_sha256": "43b1f317474388f67351d95fffeabb3edf11fd7b0f2053a991410dde60b50abc",
+        "second_sha256": "43b1f317474388f67351d95fffeabb3edf11fd7b0f2053a991410dde60b50abc"
+      },
+      {
+        "seed": 5,
+        "scenario": 0,
+        "max_absolute_error_h": {
+          "orders": 0.0,
+          "stages": 0.0,
+          "kits": 0.0
+        },
+        "first_sha256": "b90a6a125339d5f243f6581d7ce2f626e16ce6be43ff6038bba76cc630462b60",
+        "second_sha256": "b90a6a125339d5f243f6581d7ce2f626e16ce6be43ff6038bba76cc630462b60"
+      },
+      {
+        "seed": 5,
+        "scenario": 1,
+        "max_absolute_error_h": {
+          "orders": 0.0,
+          "stages": 0.0,
+          "kits": 0.0
+        },
+        "first_sha256": "8ceddd6eac9e8143f00b5c2d810681dbd11cfa564c4aa0a609c90b8de36015bc",
+        "second_sha256": "8ceddd6eac9e8143f00b5c2d810681dbd11cfa564c4aa0a609c90b8de36015bc"
+      },
+      {
+        "seed": 5,
+        "scenario": 2,
+        "max_absolute_error_h": {
+          "orders": 0.0,
+          "stages": 0.0,
+          "kits": 0.0
+        },
+        "first_sha256": "2fede56872cbb0a8226138ba92ade8d549425cd8fd08105e7876aa8baa0b0539",
+        "second_sha256": "2fede56872cbb0a8226138ba92ade8d549425cd8fd08105e7876aa8baa0b0539"
+      },
+      {
+        "seed": 5,
+        "scenario": 3,
+        "max_absolute_error_h": {
+          "orders": 0.0,
+          "stages": 0.0,
+          "kits": 0.0
+        },
+        "first_sha256": "55d06636ba03279b972904b2863bf93ca169c2d3978198fd8444a873ce77fa4d",
+        "second_sha256": "55d06636ba03279b972904b2863bf93ca169c2d3978198fd8444a873ce77fa4d"
+      },
+      {
+        "seed": 5,
+        "scenario": 4,
+        "max_absolute_error_h": {
+          "orders": 0.0,
+          "stages": 0.0,
+          "kits": 0.0
+        },
+        "first_sha256": "fbd15fda7e35351a3e9827944f73ec3f3ad9a0d5a233e22efd3f986e54ccc9c0",
+        "second_sha256": "fbd15fda7e35351a3e9827944f73ec3f3ad9a0d5a233e22efd3f986e54ccc9c0"
+      },
+      {
+        "seed": 5,
+        "scenario": 5,
+        "max_absolute_error_h": {
+          "orders": 0.0,
+          "stages": 0.0,
+          "kits": 0.0
+        },
+        "first_sha256": "7df2e0e1530fd54b07707ba3bd015285391ac687d332f99d282497be6ebeea58",
+        "second_sha256": "7df2e0e1530fd54b07707ba3bd015285391ac687d332f99d282497be6ebeea58"
+      },
+      {
+        "seed": 6,
+        "scenario": 0,
+        "max_absolute_error_h": {
+          "orders": 0.0,
+          "stages": 0.0,
+          "kits": 0.0
+        },
+        "first_sha256": "73f8eb629a306341a2d91c48f553e99d269c97c395fcadee3ad741263034e96e",
+        "second_sha256": "73f8eb629a306341a2d91c48f553e99d269c97c395fcadee3ad741263034e96e"
+      },
+      {
+        "seed": 6,
+        "scenario": 1,
+        "max_absolute_error_h": {
+          "orders": 0.0,
+          "stages": 0.0,
+          "kits": 0.0
+        },
+        "first_sha256": "d9cbde6dd96c025795f957649a3f8bd27efe9cb291f2b2eb11d28060505eebc8",
+        "second_sha256": "d9cbde6dd96c025795f957649a3f8bd27efe9cb291f2b2eb11d28060505eebc8"
+      },
+      {
+        "seed": 6,
+        "scenario": 2,
+        "max_absolute_error_h": {
+          "orders": 0.0,
+          "stages": 0.0,
+          "kits": 0.0
+        },
+        "first_sha256": "b2f8257c2fd3d6ff383bf54653a4ad40dae29c5b85646edfaba375acfc7b18bf",
+        "second_sha256": "b2f8257c2fd3d6ff383bf54653a4ad40dae29c5b85646edfaba375acfc7b18bf"
+      },
+      {
+        "seed": 6,
+        "scenario": 3,
+        "max_absolute_error_h": {
+          "orders": 0.0,
+          "stages": 0.0,
+          "kits": 0.0
+        },
+        "first_sha256": "3d87ceddc87dfef2e8c28efdefced6f93f4f050f7e7cb50c03e16966c28ec34f",
+        "second_sha256": "3d87ceddc87dfef2e8c28efdefced6f93f4f050f7e7cb50c03e16966c28ec34f"
+      },
+      {
+        "seed": 6,
+        "scenario": 4,
+        "max_absolute_error_h": {
+          "orders": 0.0,
+          "stages": 0.0,
+          "kits": 0.0
+        },
+        "first_sha256": "67ee842273d2ceb48b7cfb00bd41b317bd79db16f69bf2397bcfc076d577bdf9",
+        "second_sha256": "67ee842273d2ceb48b7cfb00bd41b317bd79db16f69bf2397bcfc076d577bdf9"
+      },
+      {
+        "seed": 6,
+        "scenario": 5,
+        "max_absolute_error_h": {
+          "orders": 0.0,
+          "stages": 0.0,
+          "kits": 0.0
+        },
+        "first_sha256": "85eae8955d1b4ade4843c113be1fc5081700623d86917916af9f861cff417f8a",
+        "second_sha256": "85eae8955d1b4ade4843c113be1fc5081700623d86917916af9f861cff417f8a"
+      },
+      {
+        "seed": 7,
+        "scenario": 0,
+        "max_absolute_error_h": {
+          "orders": 0.0,
+          "stages": 0.0,
+          "kits": 0.0
+        },
+        "first_sha256": "134f93eae19ffb906c2eabf17ed8262f4c5f17a309091b7da2593894e69fd661",
+        "second_sha256": "134f93eae19ffb906c2eabf17ed8262f4c5f17a309091b7da2593894e69fd661"
+      },
+      {
+        "seed": 7,
+        "scenario": 1,
+        "max_absolute_error_h": {
+          "orders": 0.0,
+          "stages": 0.0,
+          "kits": 0.0
+        },
+        "first_sha256": "d959d3e808dbe1b82308f140c483b66e96b3fe8aac7fea147d06d659fac8adbd",
+        "second_sha256": "d959d3e808dbe1b82308f140c483b66e96b3fe8aac7fea147d06d659fac8adbd"
+      },
+      {
+        "seed": 7,
+        "scenario": 2,
+        "max_absolute_error_h": {
+          "orders": 0.0,
+          "stages": 0.0,
+          "kits": 0.0
+        },
+        "first_sha256": "24474c036c565bc020502c30582fddb296b190f584aef414cdb17ba7b94dc43a",
+        "second_sha256": "24474c036c565bc020502c30582fddb296b190f584aef414cdb17ba7b94dc43a"
+      },
+      {
+        "seed": 7,
+        "scenario": 3,
+        "max_absolute_error_h": {
+          "orders": 0.0,
+          "stages": 0.0,
+          "kits": 0.0
+        },
+        "first_sha256": "28178bff3bb8beb651ac2c7269e25deeaa6b57684c679e26733e99d0151786af",
+        "second_sha256": "28178bff3bb8beb651ac2c7269e25deeaa6b57684c679e26733e99d0151786af"
+      },
+      {
+        "seed": 7,
+        "scenario": 4,
+        "max_absolute_error_h": {
+          "orders": 0.0,
+          "stages": 0.0,
+          "kits": 0.0
+        },
+        "first_sha256": "b0600a50ec4981151215330b4d9ae3f82a8d1706bd69e6459e88a87c668377f1",
+        "second_sha256": "b0600a50ec4981151215330b4d9ae3f82a8d1706bd69e6459e88a87c668377f1"
+      },
+      {
+        "seed": 7,
+        "scenario": 5,
+        "max_absolute_error_h": {
+          "orders": 0.0,
+          "stages": 0.0,
+          "kits": 0.0
+        },
+        "first_sha256": "a5b1278260a40cbdd1dd652227a81722d958a85545f3dd903b4eaf8c9d789d01",
+        "second_sha256": "a5b1278260a40cbdd1dd652227a81722d958a85545f3dd903b4eaf8c9d789d01"
+      },
+      {
+        "seed": 8,
+        "scenario": 0,
+        "max_absolute_error_h": {
+          "orders": 0.0,
+          "stages": 0.0,
+          "kits": 0.0
+        },
+        "first_sha256": "55f477f15b25166cc3225b9232e845a139ab9e304e3897c34a0e7cb57019921b",
+        "second_sha256": "55f477f15b25166cc3225b9232e845a139ab9e304e3897c34a0e7cb57019921b"
+      },
+      {
+        "seed": 8,
+        "scenario": 1,
+        "max_absolute_error_h": {
+          "orders": 0.0,
+          "stages": 0.0,
+          "kits": 0.0
+        },
+        "first_sha256": "3caea8d1a8f4f343d117c413d4903f21f725cd3e24e5f4e5a63c94bea39a775b",
+        "second_sha256": "3caea8d1a8f4f343d117c413d4903f21f725cd3e24e5f4e5a63c94bea39a775b"
+      },
+      {
+        "seed": 8,
+        "scenario": 2,
+        "max_absolute_error_h": {
+          "orders": 0.0,
+          "stages": 0.0,
+          "kits": 0.0
+        },
+        "first_sha256": "ca0c1160ec726eb68a23ca4d843894e11147f9555b933963ced1b5d7453ec8f6",
+        "second_sha256": "ca0c1160ec726eb68a23ca4d843894e11147f9555b933963ced1b5d7453ec8f6"
+      },
+      {
+        "seed": 8,
+        "scenario": 3,
+        "max_absolute_error_h": {
+          "orders": 0.0,
+          "stages": 0.0,
+          "kits": 0.0
+        },
+        "first_sha256": "60e6e1e274db940b4c4230890265eb85dfb9177844e15fcfc68dbba8b41697ea",
+        "second_sha256": "60e6e1e274db940b4c4230890265eb85dfb9177844e15fcfc68dbba8b41697ea"
+      },
+      {
+        "seed": 8,
+        "scenario": 4,
+        "max_absolute_error_h": {
+          "orders": 0.0,
+          "stages": 0.0,
+          "kits": 0.0
+        },
+        "first_sha256": "b1119d93f68835ccf2fa293ddeb08131a0b2b0fe49af3de4109f920a39008f5b",
+        "second_sha256": "b1119d93f68835ccf2fa293ddeb08131a0b2b0fe49af3de4109f920a39008f5b"
+      },
+      {
+        "seed": 8,
+        "scenario": 5,
+        "max_absolute_error_h": {
+          "orders": 0.0,
+          "stages": 0.0,
+          "kits": 0.0
+        },
+        "first_sha256": "b293d166af591b9f7538750322fdd321a783d50a2e8c01d035beb70b3e2b115d",
+        "second_sha256": "b293d166af591b9f7538750322fdd321a783d50a2e8c01d035beb70b3e2b115d"
+      },
+      {
+        "seed": 9,
+        "scenario": 0,
+        "max_absolute_error_h": {
+          "orders": 0.0,
+          "stages": 0.0,
+          "kits": 0.0
+        },
+        "first_sha256": "6f5700f4ea2ec3f41ed29559417f83d633cb95473dc112b3940caee23b8c6917",
+        "second_sha256": "6f5700f4ea2ec3f41ed29559417f83d633cb95473dc112b3940caee23b8c6917"
+      },
+      {
+        "seed": 9,
+        "scenario": 1,
+        "max_absolute_error_h": {
+          "orders": 0.0,
+          "stages": 0.0,
+          "kits": 0.0
+        },
+        "first_sha256": "baa41781df543474840222ce032f727b15fb98dd2c65ffadf3a735698573484e",
+        "second_sha256": "baa41781df543474840222ce032f727b15fb98dd2c65ffadf3a735698573484e"
+      },
+      {
+        "seed": 9,
+        "scenario": 2,
+        "max_absolute_error_h": {
+          "orders": 0.0,
+          "stages": 0.0,
+          "kits": 0.0
+        },
+        "first_sha256": "ee55398d01ab380cbe417843acef149fbd818b3c60e4495a429f572009fc9dd8",
+        "second_sha256": "ee55398d01ab380cbe417843acef149fbd818b3c60e4495a429f572009fc9dd8"
+      },
+      {
+        "seed": 9,
+        "scenario": 3,
+        "max_absolute_error_h": {
+          "orders": 0.0,
+          "stages": 0.0,
+          "kits": 0.0
+        },
+        "first_sha256": "e295959a2beadb0cd7228f93ae1045a8456b2d0bd419264d4798ca9195de5a27",
+        "second_sha256": "e295959a2beadb0cd7228f93ae1045a8456b2d0bd419264d4798ca9195de5a27"
+      },
+      {
+        "seed": 9,
+        "scenario": 4,
+        "max_absolute_error_h": {
+          "orders": 0.0,
+          "stages": 0.0,
+          "kits": 0.0
+        },
+        "first_sha256": "022a18c2bfb49f96d0182d6ce0e3dbbcd84a5430f3139fa7fb54f7ea18f47c68",
+        "second_sha256": "022a18c2bfb49f96d0182d6ce0e3dbbcd84a5430f3139fa7fb54f7ea18f47c68"
+      },
+      {
+        "seed": 9,
+        "scenario": 5,
+        "max_absolute_error_h": {
+          "orders": 0.0,
+          "stages": 0.0,
+          "kits": 0.0
+        },
+        "first_sha256": "45f4093b7002cf578f3fd8f245ced880b4e84b9cef4f36825c227675c8da6f71",
+        "second_sha256": "45f4093b7002cf578f3fd8f245ced880b4e84b9cef4f36825c227675c8da6f71"
+      }
+    ],
+    "e2-final-equivalence": [
+      {
+        "seed": 11,
+        "scenario": 0,
+        "max_absolute_error_h": {
+          "orders": 0.0,
+          "stages": 0.0,
+          "kits": 0.0
+        },
+        "first_sha256": "f091f511b842d987e1f73d55df753bfda6ee9ee7aa8c714d0387213d29ffd425",
+        "second_sha256": "f091f511b842d987e1f73d55df753bfda6ee9ee7aa8c714d0387213d29ffd425"
+      },
+      {
+        "seed": 11,
+        "scenario": 1,
+        "max_absolute_error_h": {
+          "orders": 0.0,
+          "stages": 0.0,
+          "kits": 0.0
+        },
+        "first_sha256": "20a24f9306edee84c632d0b3de7e9f70813e3a139e97d365d0d811b2ef0af1e3",
+        "second_sha256": "20a24f9306edee84c632d0b3de7e9f70813e3a139e97d365d0d811b2ef0af1e3"
+      },
+      {
+        "seed": 11,
+        "scenario": 2,
+        "max_absolute_error_h": {
+          "orders": 0.0,
+          "stages": 0.0,
+          "kits": 0.0
+        },
+        "first_sha256": "2ca0cc358bf46e3d9fed256787074fcd07e30ec96259fbd9512668accc019d43",
+        "second_sha256": "2ca0cc358bf46e3d9fed256787074fcd07e30ec96259fbd9512668accc019d43"
+      },
+      {
+        "seed": 11,
+        "scenario": 3,
+        "max_absolute_error_h": {
+          "orders": 0.0,
+          "stages": 0.0,
+          "kits": 0.0
+        },
+        "first_sha256": "9234d2c86394cf72c64757275b68bf398db9cbc49b796deaadf90f84bc1c0d51",
+        "second_sha256": "9234d2c86394cf72c64757275b68bf398db9cbc49b796deaadf90f84bc1c0d51"
+      },
+      {
+        "seed": 11,
+        "scenario": 4,
+        "max_absolute_error_h": {
+          "orders": 0.0,
+          "stages": 0.0,
+          "kits": 0.0
+        },
+        "first_sha256": "c27b9e3d2a625078347c2fcffff5a3efff41ab4f53eab51057febd8156ff96a2",
+        "second_sha256": "c27b9e3d2a625078347c2fcffff5a3efff41ab4f53eab51057febd8156ff96a2"
+      },
+      {
+        "seed": 11,
+        "scenario": 5,
+        "max_absolute_error_h": {
+          "orders": 0.0,
+          "stages": 0.0,
+          "kits": 0.0
+        },
+        "first_sha256": "00d5f13dd6822f792ec0042d5c109fabd0fa4d957574dd77b99278079b69146f",
+        "second_sha256": "00d5f13dd6822f792ec0042d5c109fabd0fa4d957574dd77b99278079b69146f"
+      },
+      {
+        "seed": 12,
+        "scenario": 0,
+        "max_absolute_error_h": {
+          "orders": 0.0,
+          "stages": 0.0,
+          "kits": 0.0
+        },
+        "first_sha256": "56a334f1378bc8f8ef28b43af7bd71c8cea81438f921d2377f278186cf04e3dd",
+        "second_sha256": "56a334f1378bc8f8ef28b43af7bd71c8cea81438f921d2377f278186cf04e3dd"
+      },
+      {
+        "seed": 12,
+        "scenario": 1,
+        "max_absolute_error_h": {
+          "orders": 0.0,
+          "stages": 0.0,
+          "kits": 0.0
+        },
+        "first_sha256": "bf9d0153aa387ea67899060e16e23ec5f11f55af848dda93044f0d85758f134d",
+        "second_sha256": "bf9d0153aa387ea67899060e16e23ec5f11f55af848dda93044f0d85758f134d"
+      },
+      {
+        "seed": 12,
+        "scenario": 2,
+        "max_absolute_error_h": {
+          "orders": 0.0,
+          "stages": 0.0,
+          "kits": 0.0
+        },
+        "first_sha256": "432f51c02b8991a52431d7cfe485550c0467569dfe3539cf3235729344dc32ba",
+        "second_sha256": "432f51c02b8991a52431d7cfe485550c0467569dfe3539cf3235729344dc32ba"
+      },
+      {
+        "seed": 12,
+        "scenario": 3,
+        "max_absolute_error_h": {
+          "orders": 0.0,
+          "stages": 0.0,
+          "kits": 0.0
+        },
+        "first_sha256": "b6986bf09de20fbec345903a6d10e9ad267a46bd3fdfc4f8c76e1165078ab7aa",
+        "second_sha256": "b6986bf09de20fbec345903a6d10e9ad267a46bd3fdfc4f8c76e1165078ab7aa"
+      },
+      {
+        "seed": 12,
+        "scenario": 4,
+        "max_absolute_error_h": {
+          "orders": 0.0,
+          "stages": 0.0,
+          "kits": 0.0
+        },
+        "first_sha256": "f3e01ea027314cd56c84b1fe3ec08aa012776869bf0734b1f903e9d0d9a63aca",
+        "second_sha256": "f3e01ea027314cd56c84b1fe3ec08aa012776869bf0734b1f903e9d0d9a63aca"
+      },
+      {
+        "seed": 12,
+        "scenario": 5,
+        "max_absolute_error_h": {
+          "orders": 0.0,
+          "stages": 0.0,
+          "kits": 0.0
+        },
+        "first_sha256": "82ba5ce93c4bb3059bfc8cea3415b9a59bb15072ac2355f4b30a4fb419b6e463",
+        "second_sha256": "82ba5ce93c4bb3059bfc8cea3415b9a59bb15072ac2355f4b30a4fb419b6e463"
+      },
+      {
+        "seed": 13,
+        "scenario": 0,
+        "max_absolute_error_h": {
+          "orders": 0.0,
+          "stages": 0.0,
+          "kits": 0.0
+        },
+        "first_sha256": "ac467d40410e22c063297f3d7c45251bd4f575440046a6ebeb6c7510993318c4",
+        "second_sha256": "ac467d40410e22c063297f3d7c45251bd4f575440046a6ebeb6c7510993318c4"
+      },
+      {
+        "seed": 13,
+        "scenario": 1,
+        "max_absolute_error_h": {
+          "orders": 0.0,
+          "stages": 0.0,
+          "kits": 0.0
+        },
+        "first_sha256": "6109d14f5cb8df53ed423f008d2ae9d82e20709de51fdc351885ffd8acfbe92e",
+        "second_sha256": "6109d14f5cb8df53ed423f008d2ae9d82e20709de51fdc351885ffd8acfbe92e"
+      },
+      {
+        "seed": 13,
+        "scenario": 2,
+        "max_absolute_error_h": {
+          "orders": 0.0,
+          "stages": 0.0,
+          "kits": 0.0
+        },
+        "first_sha256": "bd993b32dee28cc5109c9b3b09ede36a1233acd220379175fa8d6901c3780d00",
+        "second_sha256": "bd993b32dee28cc5109c9b3b09ede36a1233acd220379175fa8d6901c3780d00"
+      },
+      {
+        "seed": 13,
+        "scenario": 3,
+        "max_absolute_error_h": {
+          "orders": 0.0,
+          "stages": 0.0,
+          "kits": 0.0
+        },
+        "first_sha256": "e14e74127c8b651272d2ff56ea1e4b1efd735213dbafedaf34e78c74aba49a0e",
+        "second_sha256": "e14e74127c8b651272d2ff56ea1e4b1efd735213dbafedaf34e78c74aba49a0e"
+      },
+      {
+        "seed": 13,
+        "scenario": 4,
+        "max_absolute_error_h": {
+          "orders": 0.0,
+          "stages": 0.0,
+          "kits": 0.0
+        },
+        "first_sha256": "18bbc05b158f141665ea3a66324105b4f865b7faa0db2d0ee3a6fcc1c0540e1c",
+        "second_sha256": "18bbc05b158f141665ea3a66324105b4f865b7faa0db2d0ee3a6fcc1c0540e1c"
+      },
+      {
+        "seed": 13,
+        "scenario": 5,
+        "max_absolute_error_h": {
+          "orders": 0.0,
+          "stages": 0.0,
+          "kits": 0.0
+        },
+        "first_sha256": "25cdad44062e1e0fdc9b488cf18b2f174e658d74e4cd547068349edda5cdd55f",
+        "second_sha256": "25cdad44062e1e0fdc9b488cf18b2f174e658d74e4cd547068349edda5cdd55f"
+      },
+      {
+        "seed": 14,
+        "scenario": 0,
+        "max_absolute_error_h": {
+          "orders": 0.0,
+          "stages": 0.0,
+          "kits": 0.0
+        },
+        "first_sha256": "aa005c53c45938487f301a0dd1762331982599cd3132ebe6ad069275f03e1244",
+        "second_sha256": "aa005c53c45938487f301a0dd1762331982599cd3132ebe6ad069275f03e1244"
+      },
+      {
+        "seed": 14,
+        "scenario": 1,
+        "max_absolute_error_h": {
+          "orders": 0.0,
+          "stages": 0.0,
+          "kits": 0.0
+        },
+        "first_sha256": "279a66cea27765180b2838b28b2088acf242d4d495bed4a01e43b6f5e295d20e",
+        "second_sha256": "279a66cea27765180b2838b28b2088acf242d4d495bed4a01e43b6f5e295d20e"
+      },
+      {
+        "seed": 14,
+        "scenario": 2,
+        "max_absolute_error_h": {
+          "orders": 0.0,
+          "stages": 0.0,
+          "kits": 0.0
+        },
+        "first_sha256": "74faef8d12dd7a8baa4fc8ce10a99d4db3cad92f8440860740f04e098e7a59cc",
+        "second_sha256": "74faef8d12dd7a8baa4fc8ce10a99d4db3cad92f8440860740f04e098e7a59cc"
+      },
+      {
+        "seed": 14,
+        "scenario": 3,
+        "max_absolute_error_h": {
+          "orders": 0.0,
+          "stages": 0.0,
+          "kits": 0.0
+        },
+        "first_sha256": "70d184ed4942ebbd2a97db02d465991149191b5b96c820eb1b6a9e5c53e1bc96",
+        "second_sha256": "70d184ed4942ebbd2a97db02d465991149191b5b96c820eb1b6a9e5c53e1bc96"
+      },
+      {
+        "seed": 14,
+        "scenario": 4,
+        "max_absolute_error_h": {
+          "orders": 0.0,
+          "stages": 0.0,
+          "kits": 0.0
+        },
+        "first_sha256": "b2d1c4e41c6780c5e7036fb75079ef8f8280f4d5a952da002485636a2b1045d2",
+        "second_sha256": "b2d1c4e41c6780c5e7036fb75079ef8f8280f4d5a952da002485636a2b1045d2"
+      },
+      {
+        "seed": 14,
+        "scenario": 5,
+        "max_absolute_error_h": {
+          "orders": 0.0,
+          "stages": 0.0,
+          "kits": 0.0
+        },
+        "first_sha256": "cb64f07665e2b5f48296644df3de544564aa7ab7f497428ffbe00f8139171cde",
+        "second_sha256": "cb64f07665e2b5f48296644df3de544564aa7ab7f497428ffbe00f8139171cde"
+      },
+      {
+        "seed": 15,
+        "scenario": 0,
+        "max_absolute_error_h": {
+          "orders": 0.0,
+          "stages": 0.0,
+          "kits": 0.0
+        },
+        "first_sha256": "21bb9711e1af859714842453ca3d5478143f5713182be50734cf14ba03356cff",
+        "second_sha256": "21bb9711e1af859714842453ca3d5478143f5713182be50734cf14ba03356cff"
+      },
+      {
+        "seed": 15,
+        "scenario": 1,
+        "max_absolute_error_h": {
+          "orders": 0.0,
+          "stages": 0.0,
+          "kits": 0.0
+        },
+        "first_sha256": "75b5c1286ddac939bf7413bc367accf3b0fe25e28bc65bb6df9835d167993144",
+        "second_sha256": "75b5c1286ddac939bf7413bc367accf3b0fe25e28bc65bb6df9835d167993144"
+      },
+      {
+        "seed": 15,
+        "scenario": 2,
+        "max_absolute_error_h": {
+          "orders": 0.0,
+          "stages": 0.0,
+          "kits": 0.0
+        },
+        "first_sha256": "429a5df1dd399928d07accf18aba251ab161bc51829dc4e135ca6240880a0869",
+        "second_sha256": "429a5df1dd399928d07accf18aba251ab161bc51829dc4e135ca6240880a0869"
+      },
+      {
+        "seed": 15,
+        "scenario": 3,
+        "max_absolute_error_h": {
+          "orders": 0.0,
+          "stages": 0.0,
+          "kits": 0.0
+        },
+        "first_sha256": "c51bd82be8ae22c188385b9a4e69f8372a74b88d9c99ef0d9907468e7166154f",
+        "second_sha256": "c51bd82be8ae22c188385b9a4e69f8372a74b88d9c99ef0d9907468e7166154f"
+      },
+      {
+        "seed": 15,
+        "scenario": 4,
+        "max_absolute_error_h": {
+          "orders": 0.0,
+          "stages": 0.0,
+          "kits": 0.0
+        },
+        "first_sha256": "e815e562e88532d93b8f9b06aae6ed06b6a5b7983b854fb820c849fcebe54f9b",
+        "second_sha256": "e815e562e88532d93b8f9b06aae6ed06b6a5b7983b854fb820c849fcebe54f9b"
+      },
+      {
+        "seed": 15,
+        "scenario": 5,
+        "max_absolute_error_h": {
+          "orders": 0.0,
+          "stages": 0.0,
+          "kits": 0.0
+        },
+        "first_sha256": "29a438c53e0be14ea6b90449c0f820adaa4c8cdfa6b3c5568eb32c5ef438e579",
+        "second_sha256": "29a438c53e0be14ea6b90449c0f820adaa4c8cdfa6b3c5568eb32c5ef438e579"
+      },
+      {
+        "seed": 16,
+        "scenario": 0,
+        "max_absolute_error_h": {
+          "orders": 0.0,
+          "stages": 0.0,
+          "kits": 0.0
+        },
+        "first_sha256": "3547fc6c63b28cafbca0b76cc11528fb20b6eb4d23ca26d4b2cbb4a5927643c1",
+        "second_sha256": "3547fc6c63b28cafbca0b76cc11528fb20b6eb4d23ca26d4b2cbb4a5927643c1"
+      },
+      {
+        "seed": 16,
+        "scenario": 1,
+        "max_absolute_error_h": {
+          "orders": 0.0,
+          "stages": 0.0,
+          "kits": 0.0
+        },
+        "first_sha256": "bf6bfc2489b06cb739f6ba498309ab334e404482aaec05f5379d49d3da116f08",
+        "second_sha256": "bf6bfc2489b06cb739f6ba498309ab334e404482aaec05f5379d49d3da116f08"
+      },
+      {
+        "seed": 16,
+        "scenario": 2,
+        "max_absolute_error_h": {
+          "orders": 0.0,
+          "stages": 0.0,
+          "kits": 0.0
+        },
+        "first_sha256": "5726d01f841c4583974f0789fa57d4e4e5e91dbb4d273d8f0acc9608a1b16cbd",
+        "second_sha256": "5726d01f841c4583974f0789fa57d4e4e5e91dbb4d273d8f0acc9608a1b16cbd"
+      },
+      {
+        "seed": 16,
+        "scenario": 3,
+        "max_absolute_error_h": {
+          "orders": 0.0,
+          "stages": 0.0,
+          "kits": 0.0
+        },
+        "first_sha256": "db3a8143aa3b142cfa92e32b8abee72229c8d5f40c98533b0b6542a06eb15597",
+        "second_sha256": "db3a8143aa3b142cfa92e32b8abee72229c8d5f40c98533b0b6542a06eb15597"
+      },
+      {
+        "seed": 16,
+        "scenario": 4,
+        "max_absolute_error_h": {
+          "orders": 0.0,
+          "stages": 0.0,
+          "kits": 0.0
+        },
+        "first_sha256": "3dab21252ba84c535f3607d1718cc11ba53a9d223719319f0bba6ee747f5cc14",
+        "second_sha256": "3dab21252ba84c535f3607d1718cc11ba53a9d223719319f0bba6ee747f5cc14"
+      },
+      {
+        "seed": 16,
+        "scenario": 5,
+        "max_absolute_error_h": {
+          "orders": 0.0,
+          "stages": 0.0,
+          "kits": 0.0
+        },
+        "first_sha256": "dd788e10736ef69a6df56e9c78afe6ea2769884f0789a8d13f8b13b5fd910a32",
+        "second_sha256": "dd788e10736ef69a6df56e9c78afe6ea2769884f0789a8d13f8b13b5fd910a32"
+      },
+      {
+        "seed": 17,
+        "scenario": 0,
+        "max_absolute_error_h": {
+          "orders": 0.0,
+          "stages": 0.0,
+          "kits": 0.0
+        },
+        "first_sha256": "95b0ba5be64162b0aed482d481e376c427e7fd3ba008b62d42ba21c92530a647",
+        "second_sha256": "95b0ba5be64162b0aed482d481e376c427e7fd3ba008b62d42ba21c92530a647"
+      },
+      {
+        "seed": 17,
+        "scenario": 1,
+        "max_absolute_error_h": {
+          "orders": 0.0,
+          "stages": 0.0,
+          "kits": 0.0
+        },
+        "first_sha256": "1b4efba67e85998ca5518a2c4505cc4a6b7ad122863ff22bbcd5d1f8a19695c3",
+        "second_sha256": "1b4efba67e85998ca5518a2c4505cc4a6b7ad122863ff22bbcd5d1f8a19695c3"
+      },
+      {
+        "seed": 17,
+        "scenario": 2,
+        "max_absolute_error_h": {
+          "orders": 0.0,
+          "stages": 0.0,
+          "kits": 0.0
+        },
+        "first_sha256": "7e43e43a23ada21feb4068e07e5e3d7ee8258dcf0a470de18ba88473ba004a8f",
+        "second_sha256": "7e43e43a23ada21feb4068e07e5e3d7ee8258dcf0a470de18ba88473ba004a8f"
+      },
+      {
+        "seed": 17,
+        "scenario": 3,
+        "max_absolute_error_h": {
+          "orders": 0.0,
+          "stages": 0.0,
+          "kits": 0.0
+        },
+        "first_sha256": "345a14bd397031d2605e96127956f5adfe6e6c93771d635e1909bce05f7a657b",
+        "second_sha256": "345a14bd397031d2605e96127956f5adfe6e6c93771d635e1909bce05f7a657b"
+      },
+      {
+        "seed": 17,
+        "scenario": 4,
+        "max_absolute_error_h": {
+          "orders": 0.0,
+          "stages": 0.0,
+          "kits": 0.0
+        },
+        "first_sha256": "e4f0dcfaa020953387373cefe75a0fb44965ae0f607ef31a774ba01a476d05c0",
+        "second_sha256": "e4f0dcfaa020953387373cefe75a0fb44965ae0f607ef31a774ba01a476d05c0"
+      },
+      {
+        "seed": 17,
+        "scenario": 5,
+        "max_absolute_error_h": {
+          "orders": 0.0,
+          "stages": 0.0,
+          "kits": 0.0
+        },
+        "first_sha256": "3de7b55a91333490bf8775671bb8e501c0ffca9e3f7c228779863baaa72c81e5",
+        "second_sha256": "3de7b55a91333490bf8775671bb8e501c0ffca9e3f7c228779863baaa72c81e5"
+      },
+      {
+        "seed": 18,
+        "scenario": 0,
+        "max_absolute_error_h": {
+          "orders": 0.0,
+          "stages": 0.0,
+          "kits": 0.0
+        },
+        "first_sha256": "b44af158cc1415575aa207fc2beffe69c3a91981e1b8a3a3c5fb796cab3e42ca",
+        "second_sha256": "b44af158cc1415575aa207fc2beffe69c3a91981e1b8a3a3c5fb796cab3e42ca"
+      },
+      {
+        "seed": 18,
+        "scenario": 1,
+        "max_absolute_error_h": {
+          "orders": 0.0,
+          "stages": 0.0,
+          "kits": 0.0
+        },
+        "first_sha256": "caacf3736ce6d15e8507ddde8a4702fa25d7234da4f53bfe097a71d3104642e4",
+        "second_sha256": "caacf3736ce6d15e8507ddde8a4702fa25d7234da4f53bfe097a71d3104642e4"
+      },
+      {
+        "seed": 18,
+        "scenario": 2,
+        "max_absolute_error_h": {
+          "orders": 0.0,
+          "stages": 0.0,
+          "kits": 0.0
+        },
+        "first_sha256": "2d569dc032531a73e9a7775ff4a429dbc5299e2c0ca462f527fd41a0c0205503",
+        "second_sha256": "2d569dc032531a73e9a7775ff4a429dbc5299e2c0ca462f527fd41a0c0205503"
+      },
+      {
+        "seed": 18,
+        "scenario": 3,
+        "max_absolute_error_h": {
+          "orders": 0.0,
+          "stages": 0.0,
+          "kits": 0.0
+        },
+        "first_sha256": "e22e517c5833200b28d9817a5a21d590f5d713bd0d4f8886f49f96a29cfe205c",
+        "second_sha256": "e22e517c5833200b28d9817a5a21d590f5d713bd0d4f8886f49f96a29cfe205c"
+      },
+      {
+        "seed": 18,
+        "scenario": 4,
+        "max_absolute_error_h": {
+          "orders": 0.0,
+          "stages": 0.0,
+          "kits": 0.0
+        },
+        "first_sha256": "6a402c587c37822fa5eeca74d74c1cdfa08d79131609ae553fa7cc14974480a5",
+        "second_sha256": "6a402c587c37822fa5eeca74d74c1cdfa08d79131609ae553fa7cc14974480a5"
+      },
+      {
+        "seed": 18,
+        "scenario": 5,
+        "max_absolute_error_h": {
+          "orders": 0.0,
+          "stages": 0.0,
+          "kits": 0.0
+        },
+        "first_sha256": "8f05672016f5a0d0b5c5691354ce20d353f269d98ff51f32fcf515c835f88ff5",
+        "second_sha256": "8f05672016f5a0d0b5c5691354ce20d353f269d98ff51f32fcf515c835f88ff5"
+      },
+      {
+        "seed": 19,
+        "scenario": 0,
+        "max_absolute_error_h": {
+          "orders": 0.0,
+          "stages": 0.0,
+          "kits": 0.0
+        },
+        "first_sha256": "de40d9c99a56c64041a2a220182e3d608591b2bca896fc223eb6fb5b55fa92f5",
+        "second_sha256": "de40d9c99a56c64041a2a220182e3d608591b2bca896fc223eb6fb5b55fa92f5"
+      },
+      {
+        "seed": 19,
+        "scenario": 1,
+        "max_absolute_error_h": {
+          "orders": 0.0,
+          "stages": 0.0,
+          "kits": 0.0
+        },
+        "first_sha256": "d9106ecc9bf27e7154a8c07fb7dc1241d045657470b2e24c04d1637e354cd5bf",
+        "second_sha256": "d9106ecc9bf27e7154a8c07fb7dc1241d045657470b2e24c04d1637e354cd5bf"
+      },
+      {
+        "seed": 19,
+        "scenario": 2,
+        "max_absolute_error_h": {
+          "orders": 0.0,
+          "stages": 0.0,
+          "kits": 0.0
+        },
+        "first_sha256": "0893ba41db16676f31c9572a258a51e5c26fce97dafd66b49420019b6c610da1",
+        "second_sha256": "0893ba41db16676f31c9572a258a51e5c26fce97dafd66b49420019b6c610da1"
+      },
+      {
+        "seed": 19,
+        "scenario": 3,
+        "max_absolute_error_h": {
+          "orders": 0.0,
+          "stages": 0.0,
+          "kits": 0.0
+        },
+        "first_sha256": "71e3958bb883cdd4ac8416383a7e51ad871ee5684a9f4a872450a9a68bbdc52d",
+        "second_sha256": "71e3958bb883cdd4ac8416383a7e51ad871ee5684a9f4a872450a9a68bbdc52d"
+      },
+      {
+        "seed": 19,
+        "scenario": 4,
+        "max_absolute_error_h": {
+          "orders": 0.0,
+          "stages": 0.0,
+          "kits": 0.0
+        },
+        "first_sha256": "7c0ba2002efea46ae761db0260bb20e31a0c61e5f0dd921bc82242d0208c5922",
+        "second_sha256": "7c0ba2002efea46ae761db0260bb20e31a0c61e5f0dd921bc82242d0208c5922"
+      },
+      {
+        "seed": 19,
+        "scenario": 5,
+        "max_absolute_error_h": {
+          "orders": 0.0,
+          "stages": 0.0,
+          "kits": 0.0
+        },
+        "first_sha256": "23b5342e73ce3c2d166b4174bcd7f3dfa1e891a3062342fa7289eed9d3bed2db",
+        "second_sha256": "23b5342e73ce3c2d166b4174bcd7f3dfa1e891a3062342fa7289eed9d3bed2db"
+      },
+      {
+        "seed": 20,
+        "scenario": 0,
+        "max_absolute_error_h": {
+          "orders": 0.0,
+          "stages": 0.0,
+          "kits": 0.0
+        },
+        "first_sha256": "65a615b5375eda86d765acba8addc7696e39d28deca0d547d8e8e5bfa2507aa7",
+        "second_sha256": "65a615b5375eda86d765acba8addc7696e39d28deca0d547d8e8e5bfa2507aa7"
+      },
+      {
+        "seed": 20,
+        "scenario": 1,
+        "max_absolute_error_h": {
+          "orders": 0.0,
+          "stages": 0.0,
+          "kits": 0.0
+        },
+        "first_sha256": "877a2de277ef4750fea4c87b7f4bb4430a04196be773f20796898092a74aec60",
+        "second_sha256": "877a2de277ef4750fea4c87b7f4bb4430a04196be773f20796898092a74aec60"
+      },
+      {
+        "seed": 20,
+        "scenario": 2,
+        "max_absolute_error_h": {
+          "orders": 0.0,
+          "stages": 0.0,
+          "kits": 0.0
+        },
+        "first_sha256": "05b689b5a92132a559c6ffe14853f663c8c4b0bfb1f6a0e65d03aedecb3857e9",
+        "second_sha256": "05b689b5a92132a559c6ffe14853f663c8c4b0bfb1f6a0e65d03aedecb3857e9"
+      },
+      {
+        "seed": 20,
+        "scenario": 3,
+        "max_absolute_error_h": {
+          "orders": 0.0,
+          "stages": 0.0,
+          "kits": 0.0
+        },
+        "first_sha256": "7d754f693676595f703d9e6c81f111784e55242d21d9de28970512ef866d1304",
+        "second_sha256": "7d754f693676595f703d9e6c81f111784e55242d21d9de28970512ef866d1304"
+      },
+      {
+        "seed": 20,
+        "scenario": 4,
+        "max_absolute_error_h": {
+          "orders": 0.0,
+          "stages": 0.0,
+          "kits": 0.0
+        },
+        "first_sha256": "5ec6634989fdfe7b9924cbd47e9af28e1918353c9342e50adf2609904752a5f4",
+        "second_sha256": "5ec6634989fdfe7b9924cbd47e9af28e1918353c9342e50adf2609904752a5f4"
+      },
+      {
+        "seed": 20,
+        "scenario": 5,
+        "max_absolute_error_h": {
+          "orders": 0.0,
+          "stages": 0.0,
+          "kits": 0.0
+        },
+        "first_sha256": "adc7948922fa8cf441d081b29c819395f0a9f8f6eb846a29a40fa77701d18cfc",
+        "second_sha256": "adc7948922fa8cf441d081b29c819395f0a9f8f6eb846a29a40fa77701d18cfc"
+      }
+    ],
+    "combined_features": [
+      {
+        "seed": 41,
+        "scenario": 0,
+        "max_absolute_error_h": {
+          "orders": 2.2737367544323206e-13,
+          "stages": 4.547473508864641e-13,
+          "kits": 2.2737367544323206e-13
+        },
+        "first_sha256": "774bfde273441c50e29b085c45c6160b75d94db40c6f467165904ff6ffab49ba",
+        "second_sha256": "d3be8a9d8b24030ab5c5f7b3bf156b86b5a0ef24dffe38fa6a9a63adee2ec25c"
+      },
+      {
+        "seed": 41,
+        "scenario": 2,
+        "max_absolute_error_h": {
+          "orders": 2.2737367544323206e-13,
+          "stages": 2.2737367544323206e-13,
+          "kits": 2.2737367544323206e-13
+        },
+        "first_sha256": "77283173f565104de5e50fc2272e58ed2976703ea91a130c22521e888bd1da35",
+        "second_sha256": "147aa7b82b09dfee65fa4a4d1ff387e2e8488d4b03cdabf31c25cb0c3f021e00"
+      },
+      {
+        "seed": 41,
+        "scenario": 3,
+        "max_absolute_error_h": {
+          "orders": 2.2737367544323206e-13,
+          "stages": 4.547473508864641e-13,
+          "kits": 2.2737367544323206e-13
+        },
+        "first_sha256": "72efd06d3a9c76251c760e5d42cbe4cf9f07d058670cffd26e10b12400583b6c",
+        "second_sha256": "bdb23c46fb5e0e16be843cc9e03be39a3192b7e0757cdff28369bec9cf500a10"
+      }
+    ]
+  },
+  "note": "Default regression is transitive through the separately accepted v2-default/v1 regression; E2 compares pre-buffer numerical build with final source.",
+  "animation": {
+    "seed": 1,
+    "scenario": 0,
+    "max_absolute_error_h": {
+      "orders": 7.105427357601002e-15,
+      "stages": 2.842170943040401e-14,
+      "kits": 1.7763568394002505e-15
+    },
+    "first_sha256": "96d82aff431ee73e573052460668f97ff9fc533700d39bb29bdf89d06f0f0d0f",
+    "second_sha256": "ef7526a1c9fd27796457a57500c4823f82db24f95ec3ac4c9bde5ebc6df98902",
+    "label": "Actual full native animated cohort versus deterministic Python tape"
+  }
+}

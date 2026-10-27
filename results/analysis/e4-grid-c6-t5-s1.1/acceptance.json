@@ -1,0 +1,39 @@
+{
+  "label": "SYNTHETIC actual AnyLogic native results",
+  "family": "e4-grid-c6-t5-s1.1",
+  "runs": 5,
+  "warmup_jobs": 500,
+  "full_job_crn_checked": true,
+  "inputs": [
+    {
+      "file": "native-seed-1-scenario-0-finite.log",
+      "sha256": "d42dd2293492eff858a9f8ec9da31aeea41559f76c0f1a6ea3b4d69fa0ee2b2b",
+      "seed": 1,
+      "scenario": 0
+    },
+    {
+      "file": "native-seed-2-scenario-0-finite.log",
+      "sha256": "ea85d1bcb30ebf37d033b033b091e09a7f0d8c721665dd4d4c6f444e0176d4fe",
+      "seed": 2,
+      "scenario": 0
+    },
+    {
+      "file": "native-seed-3-scenario-0-finite.log",
+      "sha256": "10f51c899e8e0f09ac9538a5943f671e95a649c06bac250b81cf3ea7cc7c0c98",
+      "seed": 3,
+      "scenario": 0
+    },
+    {
+      "file": "native-seed-4-scenario-0-finite.log",
+      "sha256": "96a3279c1b9c2b1e56f23f06a20c907c8bb9e41fb3d30365735481e73d68062e",
+      "seed": 4,
+      "scenario": 0
+    },
+    {
+      "file": "native-seed-5-scenario-0-finite.log",
+      "sha256": "743afb18ba87250dc17f4eba96f8bc19c98ae0e608a5eabd606e836572235f58",
+      "seed": 5,
+      "scenario": 0
+    }
+  ]
+}

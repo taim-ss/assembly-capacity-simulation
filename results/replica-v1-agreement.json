@@ -1,0 +1,428 @@
+{
+  "label": "SYNTHETIC independent Python replica versus actual native logs",
+  "files": 60,
+  "maximum_absolute_error_h": 7.275957614183426e-12,
+  "passed": true,
+  "details": [
+    {
+      "path": "..\\p3-assembly-flow\\results\\native\\confirmation\\native-seed-11-scenario-0-finite.log",
+      "max_abs_diff": 1.4210854715202004e-14,
+      "mismatches": [],
+      "n_jobs_native": 600,
+      "n_jobs_replica": 600
+    },
+    {
+      "path": "..\\p3-assembly-flow\\results\\native\\confirmation\\native-seed-11-scenario-1-finite.log",
+      "max_abs_diff": 1.4210854715202004e-14,
+      "mismatches": [],
+      "n_jobs_native": 600,
+      "n_jobs_replica": 600
+    },
+    {
+      "path": "..\\p3-assembly-flow\\results\\native\\confirmation\\native-seed-11-scenario-2-finite.log",
+      "max_abs_diff": 1.4210854715202004e-14,
+      "mismatches": [],
+      "n_jobs_native": 600,
+      "n_jobs_replica": 600
+    },
+    {
+      "path": "..\\p3-assembly-flow\\results\\native\\confirmation\\native-seed-11-scenario-3-finite.log",
+      "max_abs_diff": 1.4210854715202004e-14,
+      "mismatches": [],
+      "n_jobs_native": 600,
+      "n_jobs_replica": 600
+    },
+    {
+      "path": "..\\p3-assembly-flow\\results\\native\\confirmation\\native-seed-11-scenario-4-finite.log",
+      "max_abs_diff": 1.4210854715202004e-14,
+      "mismatches": [],
+      "n_jobs_native": 600,
+      "n_jobs_replica": 600
+    },
+    {
+      "path": "..\\p3-assembly-flow\\results\\native\\confirmation\\native-seed-11-scenario-5-finite.log",
+      "max_abs_diff": 1.4210854715202004e-14,
+      "mismatches": [],
+      "n_jobs_native": 600,
+      "n_jobs_replica": 600
+    },
+    {
+      "path": "..\\p3-assembly-flow\\results\\native\\confirmation\\native-seed-12-scenario-0-finite.log",
+      "max_abs_diff": 9.094947017729282e-13,
+      "mismatches": [],
+      "n_jobs_native": 600,
+      "n_jobs_replica": 600
+    },
+    {
+      "path": "..\\p3-assembly-flow\\results\\native\\confirmation\\native-seed-12-scenario-1-finite.log",
+      "max_abs_diff": 9.094947017729282e-13,
+      "mismatches": [],
+      "n_jobs_native": 600,
+      "n_jobs_replica": 600
+    },
+    {
+      "path": "..\\p3-assembly-flow\\results\\native\\confirmation\\native-seed-12-scenario-2-finite.log",
+      "max_abs_diff": 9.094947017729282e-13,
+      "mismatches": [],
+      "n_jobs_native": 600,
+      "n_jobs_replica": 600
+    },
+    {
+      "path": "..\\p3-assembly-flow\\results\\native\\confirmation\\native-seed-12-scenario-3-finite.log",
+      "max_abs_diff": 9.094947017729282e-13,
+      "mismatches": [],
+      "n_jobs_native": 600,
+      "n_jobs_replica": 600
+    },
+    {
+      "path": "..\\p3-assembly-flow\\results\\native\\confirmation\\native-seed-12-scenario-4-finite.log",
+      "max_abs_diff": 9.094947017729282e-13,
+      "mismatches": [],
+      "n_jobs_native": 600,
+      "n_jobs_replica": 600
+    },
+    {
+      "path": "..\\p3-assembly-flow\\results\\native\\confirmation\\native-seed-12-scenario-5-finite.log",
+      "max_abs_diff": 9.094947017729282e-13,
+      "mismatches": [],
+      "n_jobs_native": 600,
+      "n_jobs_replica": 600
+    },
+    {
+      "path": "..\\p3-assembly-flow\\results\\native\\confirmation\\native-seed-13-scenario-0-finite.log",
+      "max_abs_diff": 1.8189894035458565e-12,
+      "mismatches": [],
+      "n_jobs_native": 600,
+      "n_jobs_replica": 600
+    },
+    {
+      "path": "..\\p3-assembly-flow\\results\\native\\confirmation\\native-seed-13-scenario-1-finite.log",
+      "max_abs_diff": 1.8189894035458565e-12,
+      "mismatches": [],
+      "n_jobs_native": 600,
+      "n_jobs_replica": 600
+    },
+    {
+      "path": "..\\p3-assembly-flow\\results\\native\\confirmation\\native-seed-13-scenario-2-finite.log",
+      "max_abs_diff": 1.8189894035458565e-12,
+      "mismatches": [],
+      "n_jobs_native": 600,
+      "n_jobs_replica": 600
+    },
+    {
+      "path": "..\\p3-assembly-flow\\results\\native\\confirmation\\native-seed-13-scenario-3-finite.log",
+      "max_abs_diff": 1.8189894035458565e-12,
+      "mismatches": [],
+      "n_jobs_native": 600,
+      "n_jobs_replica": 600
+    },
+    {
+      "path": "..\\p3-assembly-flow\\results\\native\\confirmation\\native-seed-13-scenario-4-finite.log",
+      "max_abs_diff": 1.8189894035458565e-12,
+      "mismatches": [],
+      "n_jobs_native": 600,
+      "n_jobs_replica": 600
+    },
+    {
+      "path": "..\\p3-assembly-flow\\results\\native\\confirmation\\native-seed-13-scenario-5-finite.log",
+      "max_abs_diff": 1.8189894035458565e-12,
+      "mismatches": [],
+      "n_jobs_native": 600,
+      "n_jobs_replica": 600
+    },
+    {
+      "path": "..\\p3-assembly-flow\\results\\native\\confirmation\\native-seed-14-scenario-0-finite.log",
+      "max_abs_diff": 3.637978807091713e-12,
+      "mismatches": [],
+      "n_jobs_native": 600,
+      "n_jobs_replica": 600
+    },
+    {
+      "path": "..\\p3-assembly-flow\\results\\native\\confirmation\\native-seed-14-scenario-1-finite.log",
+      "max_abs_diff": 3.637978807091713e-12,
+      "mismatches": [],
+      "n_jobs_native": 600,
+      "n_jobs_replica": 600
+    },
+    {
+      "path": "..\\p3-assembly-flow\\results\\native\\confirmation\\native-seed-14-scenario-2-finite.log",
+      "max_abs_diff": 7.275957614183426e-12,
+      "mismatches": [],
+      "n_jobs_native": 600,
+      "n_jobs_replica": 600
+    },
+    {
+      "path": "..\\p3-assembly-flow\\results\\native\\confirmation\\native-seed-14-scenario-3-finite.log",
+      "max_abs_diff": 3.637978807091713e-12,
+      "mismatches": [],
+      "n_jobs_native": 600,
+      "n_jobs_replica": 600
+    },
+    {
+      "path": "..\\p3-assembly-flow\\results\\native\\confirmation\\native-seed-14-scenario-4-finite.log",
+      "max_abs_diff": 3.637978807091713e-12,
+      "mismatches": [],
+      "n_jobs_native": 600,
+      "n_jobs_replica": 600
+    },
+    {
+      "path": "..\\p3-assembly-flow\\results\\native\\confirmation\\native-seed-14-scenario-5-finite.log",
+      "max_abs_diff": 3.637978807091713e-12,
+      "mismatches": [],
+      "n_jobs_native": 600,
+      "n_jobs_replica": 600
+    },
+    {
+      "path": "..\\p3-assembly-flow\\results\\native\\confirmation\\native-seed-15-scenario-0-finite.log",
+      "max_abs_diff": 0.0,
+      "mismatches": [],
+      "n_jobs_native": 600,
+      "n_jobs_replica": 600
+    },
+    {
+      "path": "..\\p3-assembly-flow\\results\\native\\confirmation\\native-seed-15-scenario-1-finite.log",
+      "max_abs_diff": 0.0,
+      "mismatches": [],
+      "n_jobs_native": 600,
+      "n_jobs_replica": 600
+    },
+    {
+      "path": "..\\p3-assembly-flow\\results\\native\\confirmation\\native-seed-15-scenario-2-finite.log",
+      "max_abs_diff": 0.0,
+      "mismatches": [],
+      "n_jobs_native": 600,
+      "n_jobs_replica": 600
+    },
+    {
+      "path": "..\\p3-assembly-flow\\results\\native\\confirmation\\native-seed-15-scenario-3-finite.log",
+      "max_abs_diff": 0.0,
+      "mismatches": [],
+      "n_jobs_native": 600,
+      "n_jobs_replica": 600
+    },
+    {
+      "path": "..\\p3-assembly-flow\\results\\native\\confirmation\\native-seed-15-scenario-4-finite.log",
+      "max_abs_diff": 0.0,
+      "mismatches": [],
+      "n_jobs_native": 600,
+      "n_jobs_replica": 600
+    },
+    {
+      "path": "..\\p3-assembly-flow\\results\\native\\confirmation\\native-seed-15-scenario-5-finite.log",
+      "max_abs_diff": 0.0,
+      "mismatches": [],
+      "n_jobs_native": 600,
+      "n_jobs_replica": 600
+    },
+    {
+      "path": "..\\p3-assembly-flow\\results\\native\\confirmation\\native-seed-16-scenario-0-finite.log",
+      "max_abs_diff": 2.2737367544323206e-13,
+      "mismatches": [],
+      "n_jobs_native": 600,
+      "n_jobs_replica": 600
+    },
+    {
+      "path": "..\\p3-assembly-flow\\results\\native\\confirmation\\native-seed-16-scenario-1-finite.log",
+      "max_abs_diff": 2.2737367544323206e-13,
+      "mismatches": [],
+      "n_jobs_native": 600,
+      "n_jobs_replica": 600
+    },
+    {
+      "path": "..\\p3-assembly-flow\\results\\native\\confirmation\\native-seed-16-scenario-2-finite.log",
+      "max_abs_diff": 2.2737367544323206e-13,
+      "mismatches": [],
+      "n_jobs_native": 600,
+      "n_jobs_replica": 600
+    },
+    {
+      "path": "..\\p3-assembly-flow\\results\\native\\confirmation\\native-seed-16-scenario-3-finite.log",
+      "max_abs_diff": 1.1368683772161603e-13,
+      "mismatches": [],
+      "n_jobs_native": 600,
+      "n_jobs_replica": 600
+    },
+    {
+      "path": "..\\p3-assembly-flow\\results\\native\\confirmation\\native-seed-16-scenario-4-finite.log",
+      "max_abs_diff": 2.2737367544323206e-13,
+      "mismatches": [],
+      "n_jobs_native": 600,
+      "n_jobs_replica": 600
+    },
+    {
+      "path": "..\\p3-assembly-flow\\results\\native\\confirmation\\native-seed-16-scenario-5-finite.log",
+      "max_abs_diff": 2.2737367544323206e-13,
+      "mismatches": [],
+      "n_jobs_native": 600,
+      "n_jobs_replica": 600
+    },
+    {
+      "path": "..\\p3-assembly-flow\\results\\native\\confirmation\\native-seed-17-scenario-0-finite.log",
+      "max_abs_diff": 3.637978807091713e-12,
+      "mismatches": [],
+      "n_jobs_native": 600,
+      "n_jobs_replica": 600
+    },
+    {
+      "path": "..\\p3-assembly-flow\\results\\native\\confirmation\\native-seed-17-scenario-1-finite.log",
+      "max_abs_diff": 3.637978807091713e-12,
+      "mismatches": [],
+      "n_jobs_native": 600,
+      "n_jobs_replica": 600
+    },
+    {
+      "path": "..\\p3-assembly-flow\\results\\native\\confirmation\\native-seed-17-scenario-2-finite.log",
+      "max_abs_diff": 3.637978807091713e-12,
+      "mismatches": [],
+      "n_jobs_native": 600,
+      "n_jobs_replica": 600
+    },
+    {
+      "path": "..\\p3-assembly-flow\\results\\native\\confirmation\\native-seed-17-scenario-3-finite.log",
+      "max_abs_diff": 3.637978807091713e-12,
+      "mismatches": [],
+      "n_jobs_native": 600,
+      "n_jobs_replica": 600
+    },
+    {
+      "path": "..\\p3-assembly-flow\\results\\native\\confirmation\\native-seed-17-scenario-4-finite.log",
+      "max_abs_diff": 3.637978807091713e-12,
+      "mismatches": [],
+      "n_jobs_native": 600,
+      "n_jobs_replica": 600
+    },
+    {
+      "path": "..\\p3-assembly-flow\\results\\native\\confirmation\\native-seed-17-scenario-5-finite.log",
+      "max_abs_diff": 3.637978807091713e-12,
+      "mismatches": [],
+      "n_jobs_native": 600,
+      "n_jobs_replica": 600
+    },
+    {
+      "path": "..\\p3-assembly-flow\\results\\native\\confirmation\\native-seed-18-scenario-0-finite.log",
+      "max_abs_diff": 1.1368683772161603e-13,
+      "mismatches": [],
+      "n_jobs_native": 600,
+      "n_jobs_replica": 600
+    },
+    {
+      "path": "..\\p3-assembly-flow\\results\\native\\confirmation\\native-seed-18-scenario-1-finite.log",
+      "max_abs_diff": 1.1368683772161603e-13,
+      "mismatches": [],
+      "n_jobs_native": 600,
+      "n_jobs_replica": 600
+    },
+    {
+      "path": "..\\p3-assembly-flow\\results\\native\\confirmation\\native-seed-18-scenario-2-finite.log",
+      "max_abs_diff": 1.1368683772161603e-13,
+      "mismatches": [],
+      "n_jobs_native": 600,
+      "n_jobs_replica": 600
+    },
+    {
+      "path": "..\\p3-assembly-flow\\results\\native\\confirmation\\native-seed-18-scenario-3-finite.log",
+      "max_abs_diff": 1.1368683772161603e-13,
+      "mismatches": [],
+      "n_jobs_native": 600,
+      "n_jobs_replica": 600
+    },
+    {
+      "path": "..\\p3-assembly-flow\\results\\native\\confirmation\\native-seed-18-scenario-4-finite.log",
+      "max_abs_diff": 1.1368683772161603e-13,
+      "mismatches": [],
+      "n_jobs_native": 600,
+      "n_jobs_replica": 600
+    },
+    {
+      "path": "..\\p3-assembly-flow\\results\\native\\confirmation\\native-seed-18-scenario-5-finite.log",
+      "max_abs_diff": 1.1368683772161603e-13,
+      "mismatches": [],
+      "n_jobs_native": 600,
+      "n_jobs_replica": 600
+    },
+    {
+      "path": "..\\p3-assembly-flow\\results\\native\\confirmation\\native-seed-19-scenario-0-finite.log",
+      "max_abs_diff": 0.0,
+      "mismatches": [],
+      "n_jobs_native": 600,
+      "n_jobs_replica": 600
+    },
+    {
+      "path": "..\\p3-assembly-flow\\results\\native\\confirmation\\native-seed-19-scenario-1-finite.log",
+      "max_abs_diff": 0.0,
+      "mismatches": [],
+      "n_jobs_native": 600,
+      "n_jobs_replica": 600
+    },
+    {
+      "path": "..\\p3-assembly-flow\\results\\native\\confirmation\\native-seed-19-scenario-2-finite.log",
+      "max_abs_diff": 0.0,
+      "mismatches": [],
+      "n_jobs_native": 600,
+      "n_jobs_replica": 600
+    },
+    {
+      "path": "..\\p3-assembly-flow\\results\\native\\confirmation\\native-seed-19-scenario-3-finite.log",
+      "max_abs_diff": 0.0,
+      "mismatches": [],
+      "n_jobs_native": 600,
+      "n_jobs_replica": 600
+    },
+    {
+      "path": "..\\p3-assembly-flow\\results\\native\\confirmation\\native-seed-19-scenario-4-finite.log",
+      "max_abs_diff": 0.0,
+      "mismatches": [],
+      "n_jobs_native": 600,
+      "n_jobs_replica": 600
+    },
+    {
+      "path": "..\\p3-assembly-flow\\results\\native\\confirmation\\native-seed-19-scenario-5-finite.log",
+      "max_abs_diff": 0.0,
+      "mismatches": [],
+      "n_jobs_native": 600,
+      "n_jobs_replica": 600
+    },
+    {
+      "path": "..\\p3-assembly-flow\\results\\native\\confirmation\\native-seed-20-scenario-0-finite.log",
+      "max_abs_diff": 3.637978807091713e-12,
+      "mismatches": [],
+      "n_jobs_native": 600,
+      "n_jobs_replica": 600
+    },
+    {
+      "path": "..\\p3-assembly-flow\\results\\native\\confirmation\\native-seed-20-scenario-1-finite.log",
+      "max_abs_diff": 3.637978807091713e-12,
+      "mismatches": [],
+      "n_jobs_native": 600,
+      "n_jobs_replica": 600
+    },
+    {
+      "path": "..\\p3-assembly-flow\\results\\native\\confirmation\\native-seed-20-scenario-2-finite.log",
+      "max_abs_diff": 3.637978807091713e-12,
+      "mismatches": [],
+      "n_jobs_native": 600,
+      "n_jobs_replica": 600
+    },
+    {
+      "path": "..\\p3-assembly-flow\\results\\native\\confirmation\\native-seed-20-scenario-3-finite.log",
+      "max_abs_diff": 3.637978807091713e-12,
+      "mismatches": [],
+      "n_jobs_native": 600,
+      "n_jobs_replica": 600
+    },
+    {
+      "path": "..\\p3-assembly-flow\\results\\native\\confirmation\\native-seed-20-scenario-4-finite.log",
+      "max_abs_diff": 3.637978807091713e-12,
+      "mismatches": [],
+      "n_jobs_native": 600,
+      "n_jobs_replica": 600
+    },
+    {
+      "path": "..\\p3-assembly-flow\\results\\native\\confirmation\\native-seed-20-scenario-5-finite.log",
+      "max_abs_diff": 3.637978807091713e-12,
+      "mismatches": [],
+      "n_jobs_native": 600,
+      "n_jobs_replica": 600
+    }
+  ]
+}

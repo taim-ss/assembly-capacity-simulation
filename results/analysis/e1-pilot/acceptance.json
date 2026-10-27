@@ -1,0 +1,69 @@
+{
+  "label": "SYNTHETIC actual AnyLogic native results",
+  "family": "e1-pilot",
+  "runs": 10,
+  "warmup_jobs": 0,
+  "full_job_crn_checked": true,
+  "inputs": [
+    {
+      "file": "native-seed-1-scenario-0-finite.log",
+      "sha256": "d48fc4f356f3b253feefb96b1633224e98c2da3a4d491ca91babc4cc81010360",
+      "seed": 1,
+      "scenario": 0
+    },
+    {
+      "file": "native-seed-10-scenario-0-finite.log",
+      "sha256": "968e764f2363d0ab0b883604cd3860e2b0a36fbd03d862bd50281a66ea14f0ff",
+      "seed": 10,
+      "scenario": 0
+    },
+    {
+      "file": "native-seed-2-scenario-0-finite.log",
+      "sha256": "c140a6f72256d4168040733d41b7e8197f786c6494ba7d1d8bdc3bd43a596975",
+      "seed": 2,
+      "scenario": 0
+    },
+    {
+      "file": "native-seed-3-scenario-0-finite.log",
+      "sha256": "c8186d3b356083c1fb649aa9786f48bbb70bd4a30b14cfb37c65f5af1f0dc470",
+      "seed": 3,
+      "scenario": 0
+    },
+    {
+      "file": "native-seed-4-scenario-0-finite.log",
+      "sha256": "7028f6182ced852618f434d15ff18791004d7c51c0cdf22bc07f921ea0d37eae",
+      "seed": 4,
+      "scenario": 0
+    },
+    {
+      "file": "native-seed-5-scenario-0-finite.log",
+      "sha256": "bd1a1193423caa57bb808f2512d1730c2956d005afcb825002564bb04df99ecd",
+      "seed": 5,
+      "scenario": 0
+    },
+    {
+      "file": "native-seed-6-scenario-0-finite.log",
+      "sha256": "13d555efee10cd58c46cf009163f6ec404bd2a932e3b49f680949ae1c3712ae7",
+      "seed": 6,
+      "scenario": 0
+    },
+    {
+      "file": "native-seed-7-scenario-0-finite.log",
+      "sha256": "a8e39c22a7c2857ab77dfe9844400e0f6a0caee7ce80599360625503a8678ce1",
+      "seed": 7,
+      "scenario": 0
+    },
+    {
+      "file": "native-seed-8-scenario-0-finite.log",
+      "sha256": "3854931761f1f0b53606308cf90b291ddc176b5d9398fc934cec88e83d16ea7b",
+      "seed": 8,
+      "scenario": 0
+    },
+    {
+      "file": "native-seed-9-scenario-0-finite.log",
+      "sha256": "fb0af9cff56dfc3f565f6a9d68d0000c1d2e68fe32e1e65623f5fa9183d646d5",
+      "seed": 9,
+      "scenario": 0
+    }
+  ]
+}

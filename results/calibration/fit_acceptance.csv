@@ -1,0 +1,21 @@
+data,step,family,selected,ks_D,ks_parametric_bootstrap_p,bootstrap_replicates,selection_mean_relative_error,selection_p90_relative_error,mean_band_pass,p90_band_pass,interpretation
+SYNTHETIC,kitting,gamma,False,0.060506834942028465,0.1,199,0.007175226586102805,0.03965568460931541,True,True,Fitted-null GOF with nuisance parameters refitted; selection set is not independent validation
+SYNTHETIC,kitting,lognormal,False,0.03916785887342117,0.635,199,0.005155810552166555,0.05548893168795643,True,True,Fitted-null GOF with nuisance parameters refitted; selection set is not independent validation
+SYNTHETIC,kitting,weibull,False,0.09480141867568548,0.005,199,0.006347494516190467,0.04736790445595064,True,True,Fitted-null GOF with nuisance parameters refitted; selection set is not independent validation
+SYNTHETIC,kitting,empirical,True,,,0,0.007175226586102805,0.07707509881422929,True,True,Empirical family has no parametric fitted-null KS test; selection diagnostic only
+SYNTHETIC,assembly,gamma,False,0.03583277465279566,0.79,199,0.04012001573976906,0.07340165746377338,True,True,Fitted-null GOF with nuisance parameters refitted; selection set is not independent validation
+SYNTHETIC,assembly,lognormal,True,0.03020605832362941,0.96,199,0.04054075385168669,0.08207127595658428,True,True,Fitted-null GOF with nuisance parameters refitted; selection set is not independent validation
+SYNTHETIC,assembly,weibull,False,0.07869885563659029,0.01,199,0.03809542736273285,0.09039974756827074,True,True,Fitted-null GOF with nuisance parameters refitted; selection set is not independent validation
+SYNTHETIC,assembly,empirical,False,,,0,0.04012001573976906,0.0398396391881732,True,True,Empirical family has no parametric fitted-null KS test; selection diagnostic only
+SYNTHETIC,test,gamma,False,0.046327687768934034,0.4,199,0.01822817384674056,0.12758327140001088,True,True,Fitted-null GOF with nuisance parameters refitted; selection set is not independent validation
+SYNTHETIC,test,lognormal,False,0.06660927321926918,0.06,199,0.005281749151456249,0.09354183364414599,True,True,Fitted-null GOF with nuisance parameters refitted; selection set is not independent validation
+SYNTHETIC,test,weibull,True,0.0702525070232094,0.03,199,0.012953910320143635,0.10900021221931988,True,True,Fitted-null GOF with nuisance parameters refitted; selection set is not independent validation
+SYNTHETIC,test,empirical,False,,,0,0.01822817384674056,0.06768275734272239,True,True,Empirical family has no parametric fitted-null KS test; selection diagnostic only
+SYNTHETIC,quality_release,gamma,False,0.06659971149010768,0.045,199,0.031075602194132922,0.12914142026002123,True,True,Fitted-null GOF with nuisance parameters refitted; selection set is not independent validation
+SYNTHETIC,quality_release,lognormal,True,0.044942669628216914,0.47,199,0.032900535179211564,0.1263256975349063,True,True,Fitted-null GOF with nuisance parameters refitted; selection set is not independent validation
+SYNTHETIC,quality_release,weibull,False,0.10543638981445258,0.005,199,0.029826310493220896,0.0940061519581978,True,True,Fitted-null GOF with nuisance parameters refitted; selection set is not independent validation
+SYNTHETIC,quality_release,empirical,False,,,0,0.031075602194132922,0.13069414316702857,True,True,Empirical family has no parametric fitted-null KS test; selection diagnostic only
+SYNTHETIC,handover,gamma,False,0.04312478024923594,0.465,199,0.021098838855848127,0.0859165110538893,True,True,Fitted-null GOF with nuisance parameters refitted; selection set is not independent validation
+SYNTHETIC,handover,lognormal,True,0.05931528221809135,0.075,199,0.01949082498566477,0.0735033765044477,True,True,Fitted-null GOF with nuisance parameters refitted; selection set is not independent validation
+SYNTHETIC,handover,weibull,False,0.08062085116959761,0.005,199,0.023470078705357268,0.07150872293755998,True,True,Fitted-null GOF with nuisance parameters refitted; selection set is not independent validation
+SYNTHETIC,handover,empirical,False,,,0,0.021098838855848127,0.08025568181818205,True,True,Empirical family has no parametric fitted-null KS test; selection diagnostic only

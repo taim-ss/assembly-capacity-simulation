@@ -1,0 +1,105 @@
+{
+  "label": "SYNTHETIC fresh-extracted canonical native verification",
+  "passed": true,
+  "canonical_model_sha256": "28af0d6252136ccce9934b040cd225a83d6c79f66c67de4edcb9a6da7ec4898e",
+  "extracted_to": "C:\\Users\\USER\\Documents\\anylogic-pms\\portfolio\\p3-assembly-flow-v2-extract-check-20261027",
+  "candidate_archive": {
+    "archive": "C:\\Users\\USER\\Documents\\anylogic-pms\\portfolio\\p3-assembly-flow-v2\\deliverables-candidate\\P3_Assembly_Flow_SYNTHETIC.zip",
+    "bytes": 4997982,
+    "sha256": "c3d76ba11ecacc7562035fdfb7661a39ea0e63bf740f1ef0d3493558f29c20e2",
+    "files": 544,
+    "crc": "passed",
+    "inventory": "passed",
+    "file_sha256": "passed",
+    "extracted_to": null,
+    "extracted_model_sha256": null,
+    "scope": "Archive integrity and optional fresh extraction; no AnyLogic execution"
+  },
+  "scope": "Candidate archive extracted; its canonical model ran in a private batch with name/package/output/selected-case overrides. Final documentation/media archive is verified separately against the same unchanged canonical model.",
+  "native_copy_sha256": "49c034148dbfa800339e0b0b4142e80e749cf24a739864c0c9d7ecb82f5c92b3",
+  "native_launch": {
+    "owner_pid": 6740,
+    "anylogic_pid": 39716,
+    "alp": "C:\\Users\\USER\\Documents\\anylogic-pms\\portfolio\\p3-assembly-flow-v2\\tools\\.build\\native\\P3V2FreshCheck01\\P3V2FreshCheck01.alp",
+    "alp_sha256": "49c034148dbfa800339e0b0b4142e80e749cf24a739864c0c9d7ecb82f5c92b3",
+    "experiment": "Batch",
+    "expected": 5,
+    "started": 1793061643.2909274,
+    "completed": 5,
+    "seconds": 127.17,
+    "status": "complete"
+  },
+  "native_families": [
+    {
+      "family": "fresh-replay",
+      "runs": 1,
+      "log_sha256": "4f04778d10daa62a3f183d7f9aad95265822c88e51fe74aa5db8a1b632e2d69e",
+      "source_timestamp_validation": {
+        "path": "C:\\Users\\USER\\Documents\\anylogic-pms\\portfolio\\p3-assembly-flow-v2-extract-check-20261027\\analysis\\calibration\\clean_orders.csv",
+        "sha256": "05722404e1d6a843d7a519b9749a8e9cd498ade3d01af5ad66fae579b63ab5fb",
+        "clean_orders": 195,
+        "timestamp_tolerance_h": 1e-06,
+        "maximum_absolute_error_h": 3.637978807091713e-12
+      },
+      "validation_scope": "Every release, stage entry/start/finish/duration and order finish matched extracted source; every transition counter and terminal195/195 checked. Generic assessor restricts replay meanInterarrival to30, while this batch retained inactive5.0540201005; direct source checks used without altering configuration or logs."
+    },
+    {
+      "family": "fresh-finite",
+      "runs": 3,
+      "acceptance_sha256": "2f4dd1fbfb6410fedf373889f80212d16a02f9f46b2d601ad624c434df019f90"
+    },
+    {
+      "family": "fresh-combined",
+      "runs": 1,
+      "acceptance_sha256": "0348be3645eb01363655ca287887ec6d76b3df25959d04391a9cb27e6a5e4a7a"
+    }
+  ],
+  "finite_replica_agreement": [
+    {
+      "seed": 51,
+      "scenario": 0,
+      "max_absolute_error_h": {
+        "orders": 4.547473508864641e-13,
+        "stages": 4.547473508864641e-13,
+        "kits": 4.547473508864641e-13
+      },
+      "first_sha256": "65ad8c511f7979f0ec7b751e42647c9d8e2e49206fd3b371bc5f1fd1af514de0",
+      "second_sha256": "8fb74f0d3028e85594e5d3ef43ee1f2631551453d67449d54744d3946a8e14ba"
+    },
+    {
+      "seed": 51,
+      "scenario": 2,
+      "max_absolute_error_h": {
+        "orders": 4.547473508864641e-13,
+        "stages": 4.547473508864641e-13,
+        "kits": 4.547473508864641e-13
+      },
+      "first_sha256": "76c5d23b83f4e3f6a8525bf4aa98ff9e1e66f256019be9290e3fdc8b65446de4",
+      "second_sha256": "32afd732507defc77fb5269c606996b73324be5d9df882e479dd18595d19da3a"
+    },
+    {
+      "seed": 51,
+      "scenario": 3,
+      "max_absolute_error_h": {
+        "orders": 4.547473508864641e-13,
+        "stages": 4.547473508864641e-13,
+        "kits": 4.547473508864641e-13
+      },
+      "first_sha256": "3527989730444985d7b21809c0e8d89deb39ebc7bb9c64e812ec8b0b107f441a",
+      "second_sha256": "69649d24c4b0f56fa6081746a0893985908b4c6fcc739ec527af089d2e18d7e6"
+    },
+    {
+      "seed": 52,
+      "scenario": 0,
+      "max_absolute_error_h": {
+        "orders": 4.547473508864641e-13,
+        "stages": 2.2737367544323206e-13,
+        "kits": 4.547473508864641e-13
+      },
+      "first_sha256": "9db6dd6b83c056df46c8d65bfbffa135166df76d343dd8ceba75c509473e2e71",
+      "second_sha256": "bbb397ba655cf3d5d5851fa748c109d4fd2b6d93f596e7bd9fce37cf100a0f0b"
+    }
+  ],
+  "extracted_python_tests": "132 passed in29.88s before final single-seed inference guard; final refreshed archive checks recorded separately.",
+  "visual_scope": "Native Visual05 actual scene derives from identical canonical SHA; no external3Dassets. Fresh five-case smoke is numerical, not a second visual recording."
+}
